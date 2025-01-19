@@ -389,3 +389,2526 @@
  User logged out: null.
 [Log Activity : 14/11/2024 14:18:06 WIB] Log Information : 
  User logged out (Profile not found for null).
+[Log Activity : 22/11/2024 16:09:43 WIB] Log Information : 
+ User logged in: rifyal.
+[Log Activity : 22/11/2024 16:09:43 WIB] Log Information : 
+ User logged in information: User{ID_User=6, Nama='Rifyal', Username='rifyal', Password='1234', levelAkses='admin'}.
+[Log Activity : 22/11/2024 16:09:47 WIB] Log Information : 
+ Sukses mengambil data produk.
+[Log Activity : 22/11/2024 16:09:47 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/11/2024 16:09:52 WIB] Log Information : Navigated to main menu.
+[Log Activity : 22/11/2024 16:09:54 WIB] Log Information : 
+ User logged out: rifyal.
+[Log Activity : 22/11/2024 16:09:54 WIB] Log Information : 
+ User logged out information: User{ID_User=6, Nama='Rifyal', Username='rifyal', Password='1234', levelAkses='admin'}.
+[Log Activity : 22/11/2024 16:27:10 WIB] Log Information : 
+ Sukses mengambil data produk.
+[Log Activity : 22/11/2024 16:27:10 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/11/2024 16:38:23 WIB] Log Information : 
+ Sukses mengambil data produk.
+[Log Activity : 22/11/2024 16:38:23 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/11/2024 16:40:17 WIB] Log Information : 
+ Sukses mengambil data produk.
+[Log Activity : 22/11/2024 16:40:17 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/11/2024 16:40:35 WIB] Log Information : 
+ Sukses mengambil data produk.
+[Log Activity : 22/11/2024 16:41:09 WIB] Log Information : 
+ Sukses mengambil data produk.
+[Log Activity : 22/11/2024 16:45:09 WIB] Log Information : 
+ Sukses mengambil data produk.
+[Log Activity : 22/11/2024 16:45:09 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 23/11/2024 13:21:36 WIB] Log Information : 
+ Sukses mengambil data produk.
+[Log Activity : 23/11/2024 13:21:36 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 23/11/2024 13:21:46 WIB] Log Information : 
+ User with ID 47 deleted (Profile not found).
+[Log Activity : 23/11/2024 13:21:53 WIB] Log Information : 
+ User with ID 48 deleted (Profile not found).
+[Log Activity : 23/11/2024 13:22:03 WIB] Log Information : 
+ User with ID 15 deleted (Profile not found).
+[Log Activity : 23/11/2024 13:22:10 WIB] Log Information : 
+ User with ID 49 deleted (Profile not found).
+[Log Activity : 23/11/2024 13:22:25 WIB] Log Information : 
+ User with ID 43 deleted (Profile not found).
+[Log Activity : 23/11/2024 13:22:43 WIB] Log Information : Navigated to main menu.
+[Log Activity : 23/11/2024 13:22:48 WIB] Log Information : 
+ Sukses mengambil data produk.
+[Log Activity : 23/11/2024 13:22:48 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 23/11/2024 13:22:51 WIB] Log Information : 
+ User logged out: null.
+[Log Activity : 23/11/2024 13:22:51 WIB] Log Information : 
+ User logged out (Profile not found for null).
+[Log Activity : 23/11/2024 13:23:01 WIB] Log Information : 
+ User logged in: rifyal.
+[Log Activity : 23/11/2024 13:23:01 WIB] Log Information : 
+ User logged in information: User{ID_User=6, Nama='Rifyal', Username='rifyal', Password='1234', levelAkses='admin'}.
+[Log Activity : 23/11/2024 13:23:04 WIB] Log Information : 
+ Sukses mengambil data produk.
+[Log Activity : 23/11/2024 13:23:04 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 23/11/2024 13:23:06 WIB] Log Information : Navigated to main menu.
+[Log Activity : 23/11/2024 13:23:13 WIB] Log Information : 
+ User logged out: rifyal.
+[Log Activity : 23/11/2024 13:23:13 WIB] Log Information : 
+ User logged out information: User{ID_User=6, Nama='Rifyal', Username='rifyal', Password='1234', levelAkses='admin'}.
+[Log Activity : 23/11/2024 13:59:20 WIB] Log Information : 
+ Sukses mengambil data produk.
+[Log Activity : 23/11/2024 13:59:20 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 23/11/2024 14:10:41 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 23/11/2024 14:11:21 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 23/11/2024 14:12:10 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 23/11/2024 14:12:35 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 23/11/2024 14:13:47 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 23/11/2024 14:14:06 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 23/11/2024 14:14:18 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 23/11/2024 14:15:07 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 24/11/2024 18:10:17 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 15/12/2024 17:55:04 WIB] Log Information : 
+ Sukses mengambil data produk.
+[Log Activity : 15/12/2024 17:55:04 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 15/12/2024 17:55:22 WIB] Log Information : Navigated to main menu.
+[Log Activity : 15/12/2024 17:55:29 WIB] Log Information : 
+ User logged out: null.
+[Log Activity : 15/12/2024 17:55:29 WIB] Log Information : 
+ User logged out (Profile not found for null).
+[Log Activity : 15/12/2024 17:55:43 WIB] Log Information : 
+ User logged in: Rifyal.
+[Log Activity : 15/12/2024 17:55:43 WIB] Log Information : 
+ User logged in information: User{ID_User=6, Nama='Rifyal', Username='Rifyal', Password='1234', levelAkses='admin'}.
+[Log Activity : 15/12/2024 17:56:10 WIB] Log Information : 
+ User logged out: Rifyal.
+[Log Activity : 15/12/2024 17:56:10 WIB] Log Information : 
+ User logged out information: User{ID_User=6, Nama='Rifyal', Username='Rifyal', Password='1234', levelAkses='admin'}.
+[Log Activity : 18/12/2024 19:49:18 WIB] Log Information : 
+ User logged in: RIFYAL12.
+[Log Activity : 18/12/2024 19:49:18 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='RIFYAL12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 18/12/2024 19:49:52 WIB] Log Information : 
+ User logged out: RIFYAL12.
+[Log Activity : 18/12/2024 19:49:52 WIB] Log Information : 
+ User logged out information: User{ID_User=9, Nama='Rifyal', Username='RIFYAL12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 18/12/2024 19:50:02 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 18/12/2024 19:50:02 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 18/12/2024 19:50:43 WIB] Log Information : 
+ User logged out: rifyal12.
+[Log Activity : 18/12/2024 19:50:43 WIB] Log Information : 
+ User logged out information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 18/12/2024 19:50:49 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 18/12/2024 19:50:49 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 18/12/2024 19:56:18 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 18/12/2024 19:56:18 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 18/12/2024 19:56:57 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 18/12/2024 19:56:57 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 18/12/2024 19:57:30 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 18/12/2024 19:57:30 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 18/12/2024 20:00:58 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 18/12/2024 20:00:58 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 18/12/2024 20:02:58 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 18/12/2024 20:02:58 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 18/12/2024 20:04:59 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 18/12/2024 20:04:59 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 18/12/2024 20:05:41 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 18/12/2024 20:05:41 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 18/12/2024 20:05:52 WIB] Log Information : 
+ User logged out: rifyal12.
+[Log Activity : 18/12/2024 20:05:52 WIB] Log Information : 
+ User logged out information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 18/12/2024 20:10:14 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 18/12/2024 20:10:14 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 18/12/2024 20:14:17 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 18/12/2024 20:14:17 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 18/12/2024 20:18:20 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 18/12/2024 20:18:20 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 18/12/2024 20:25:30 WIB] Log Information : 
+ User logged in: rifyal.
+[Log Activity : 18/12/2024 20:25:30 WIB] Log Information : 
+ User logged in information: User{ID_User=6, Nama='Rifyal', Username='rifyal', Password='1234', levelAkses='admin'}.
+[Log Activity : 18/12/2024 20:25:34 WIB] Log Information : 
+ User logged out: rifyal.
+[Log Activity : 18/12/2024 20:25:34 WIB] Log Information : 
+ User logged out information: User{ID_User=6, Nama='Rifyal', Username='rifyal', Password='1234', levelAkses='admin'}.
+[Log Activity : 18/12/2024 20:25:40 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 18/12/2024 20:25:40 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 18/12/2024 20:27:35 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 18/12/2024 20:27:35 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 18/12/2024 20:28:35 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 18/12/2024 20:28:35 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 18/12/2024 23:28:28 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 18/12/2024 23:28:28 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 19/12/2024 00:24:40 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 19/12/2024 00:24:40 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 19/12/2024 00:29:41 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 19/12/2024 00:29:41 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 19/12/2024 00:34:08 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 19/12/2024 00:34:08 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 19/12/2024 00:37:08 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 19/12/2024 00:37:08 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 19/12/2024 00:40:58 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 19/12/2024 00:40:58 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 19/12/2024 00:42:32 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 19/12/2024 00:42:32 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 19/12/2024 00:43:45 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 19/12/2024 00:43:45 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 19/12/2024 00:44:56 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 19/12/2024 00:44:56 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 19/12/2024 00:45:39 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 19/12/2024 00:45:39 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 19/12/2024 00:47:04 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 19/12/2024 00:47:04 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 19/12/2024 00:48:10 WIB] Log Information : 
+ User logged in: RIFYAL12.
+[Log Activity : 19/12/2024 00:48:10 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='RIFYAL12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 19/12/2024 00:49:06 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 19/12/2024 00:49:06 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 19/12/2024 00:50:52 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 19/12/2024 00:50:52 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 19/12/2024 00:53:16 WIB] Log Information : 
+ User logged out: rifyal12.
+[Log Activity : 19/12/2024 00:53:16 WIB] Log Information : 
+ User logged out information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 19/12/2024 00:54:56 WIB] Log Information : 
+ User logged in: RIFYAL12.
+[Log Activity : 19/12/2024 00:54:56 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='RIFYAL12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 19/12/2024 00:56:06 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 19/12/2024 00:56:06 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 19/12/2024 00:57:56 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 19/12/2024 00:57:56 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 19/12/2024 00:59:17 WIB] Log Information : 
+ User logged in: RIFYAL12.
+[Log Activity : 19/12/2024 00:59:17 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='RIFYAL12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 19/12/2024 17:20:37 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 19/12/2024 17:20:37 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 19/12/2024 17:21:12 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 19/12/2024 17:21:33 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 19/12/2024 17:21:33 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 19/12/2024 17:27:37 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 19/12/2024 17:27:37 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 19/12/2024 17:36:16 WIB] Log Information : 
+ User logged out: rifyal12.
+[Log Activity : 19/12/2024 17:36:16 WIB] Log Information : 
+ User logged out information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 19/12/2024 17:36:22 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 19/12/2024 17:36:22 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 19/12/2024 17:36:45 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 19/12/2024 17:36:45 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 19/12/2024 17:39:02 WIB] Log Information : 
+ User logged out: rifyal12.
+[Log Activity : 19/12/2024 17:39:03 WIB] Log Information : 
+ User logged out information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 19/12/2024 17:39:10 WIB] Log Information : 
+ User logged in: Rifyal12.
+[Log Activity : 19/12/2024 17:39:10 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='Rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 19/12/2024 17:39:39 WIB] Log Information : 
+ User logged in: RIFYAL12.
+[Log Activity : 19/12/2024 17:39:39 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='RIFYAL12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 19/12/2024 17:42:35 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 19/12/2024 17:42:35 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 19/12/2024 17:43:15 WIB] Log Information : 
+ User logged in: RIFYAL12.
+[Log Activity : 19/12/2024 17:43:15 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='RIFYAL12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 19/12/2024 17:48:38 WIB] Log Information : 
+ User logged in: RIFYAL12.
+[Log Activity : 19/12/2024 17:48:38 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='RIFYAL12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 19/12/2024 21:49:16 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 19/12/2024 21:49:16 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 19/12/2024 21:58:45 WIB] Log Information : 
+ User logged in: RIFYAL12.
+[Log Activity : 19/12/2024 21:58:45 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='RIFYAL12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 19/12/2024 21:59:38 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 19/12/2024 22:04:30 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 19/12/2024 22:05:33 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 19/12/2024 22:06:38 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 19/12/2024 22:07:19 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 19/12/2024 22:07:34 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 19/12/2024 22:08:47 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 19/12/2024 22:10:57 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 20/12/2024 05:38:48 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 20/12/2024 05:40:01 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 20/12/2024 05:41:10 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 20/12/2024 05:42:13 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 20/12/2024 05:43:04 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 20/12/2024 05:44:23 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 20/12/2024 05:45:11 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 20/12/2024 05:45:51 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 20/12/2024 06:00:48 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 20/12/2024 06:00:48 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 20/12/2024 06:05:44 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 20/12/2024 06:05:44 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 20/12/2024 06:11:34 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 20/12/2024 06:11:34 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 20/12/2024 06:14:11 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 20/12/2024 06:14:11 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 20/12/2024 06:17:54 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 20/12/2024 06:17:54 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 20/12/2024 06:28:29 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 20/12/2024 06:28:29 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 20/12/2024 06:28:38 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 20/12/2024 06:29:36 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 20/12/2024 06:29:36 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 20/12/2024 06:29:40 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 21/12/2024 12:50:03 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 21/12/2024 12:53:38 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 21/12/2024 12:54:26 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 21/12/2024 12:55:20 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 21/12/2024 12:56:47 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 21/12/2024 12:57:10 WIB] Log Information : 
+ Sukses mengambil data produk.
+[Log Activity : 21/12/2024 12:57:10 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 21/12/2024 12:58:21 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 21/12/2024 12:59:36 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 21/12/2024 13:01:02 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 21/12/2024 13:03:19 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 21/12/2024 13:04:09 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 21/12/2024 13:04:55 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 21/12/2024 13:05:27 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 21/12/2024 13:06:11 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 21/12/2024 13:13:10 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 21/12/2024 13:13:34 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 14:08:30 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 14:20:08 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 14:20:52 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 14:22:00 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 14:32:47 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 14:33:31 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 14:40:37 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 14:41:57 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 14:44:06 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 14:51:41 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 15:02:21 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 15:03:08 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 15:04:56 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 22/12/2024 15:04:56 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 22/12/2024 15:05:30 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 15:17:02 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 15:18:54 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 22/12/2024 15:18:54 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 22/12/2024 15:19:25 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 15:21:51 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 15:25:16 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 15:26:05 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 15:27:16 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 15:29:27 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 15:38:08 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 15:38:17 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 15:40:02 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 15:40:52 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 15:41:37 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 15:42:59 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 15:50:41 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 15:52:30 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 15:54:14 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 15:59:44 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 16:00:10 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 16:11:39 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 16:13:20 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 16:14:07 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 16:16:51 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 16:17:08 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 16:18:39 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 16:20:27 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 16:24:56 WIB] Log Information : 
+ User logged out: null.
+[Log Activity : 22/12/2024 16:24:56 WIB] Log Information : 
+ User logged out (Profile not found for null).
+[Log Activity : 22/12/2024 16:26:52 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 16:27:48 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 16:30:13 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 16:34:01 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 16:36:58 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 16:37:38 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 16:40:44 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 16:42:14 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 16:43:21 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 16:50:49 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 16:51:35 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 16:54:20 WIB] Log Information : 
+ Sukses mengambil data produk.
+[Log Activity : 22/12/2024 16:54:20 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 16:54:22 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 16:54:22 WIB] Log Information : Navigated to main menu.
+[Log Activity : 22/12/2024 16:54:25 WIB] Log Information : 
+ Sukses mengambil data produk.
+[Log Activity : 22/12/2024 16:54:25 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 16:54:28 WIB] Log Information : Navigated to main menu.
+[Log Activity : 22/12/2024 16:54:33 WIB] Log Information : 
+ User logged out: null.
+[Log Activity : 22/12/2024 16:54:33 WIB] Log Information : 
+ User logged out (Profile not found for null).
+[Log Activity : 22/12/2024 16:54:40 WIB] Log Information : 
+ User logged in: rifyal.
+[Log Activity : 22/12/2024 16:54:40 WIB] Log Information : 
+ User logged in information: User{ID_User=6, Nama='Rifyal', Username='rifyal', Password='1234', levelAkses='admin'}.
+[Log Activity : 22/12/2024 16:55:12 WIB] Log Information : 
+ User logged in: rifyal.
+[Log Activity : 22/12/2024 16:55:12 WIB] Log Information : 
+ User logged in information: User{ID_User=6, Nama='Rifyal', Username='rifyal', Password='1234', levelAkses='admin'}.
+[Log Activity : 22/12/2024 16:55:15 WIB] Log Information : 
+ Sukses mengambil data produk.
+[Log Activity : 22/12/2024 16:55:15 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 16:55:19 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 16:55:19 WIB] Log Information : Navigated to main menu.
+[Log Activity : 22/12/2024 16:55:32 WIB] Log Information : 
+ Sukses mengambil data produk.
+[Log Activity : 22/12/2024 16:55:32 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 16:55:35 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 16:55:35 WIB] Log Information : Navigated to main menu.
+[Log Activity : 22/12/2024 16:56:35 WIB] Log Information : 
+ User logged in: rifyal.
+[Log Activity : 22/12/2024 16:56:35 WIB] Log Information : 
+ User logged in information: User{ID_User=6, Nama='Rifyal', Username='rifyal', Password='1234', levelAkses='admin'}.
+[Log Activity : 22/12/2024 16:56:38 WIB] Log Information : 
+ Sukses mengambil data produk.
+[Log Activity : 22/12/2024 16:56:38 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 16:56:40 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 16:56:40 WIB] Log Information : Navigated to main menu.
+[Log Activity : 22/12/2024 16:56:41 WIB] Log Information : Navigated to main menu.
+[Log Activity : 22/12/2024 16:56:42 WIB] Log Information : 
+ Sukses mengambil data produk.
+[Log Activity : 22/12/2024 16:56:42 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 16:56:43 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 16:56:43 WIB] Log Information : Navigated to main menu.
+[Log Activity : 22/12/2024 16:56:45 WIB] Log Information : 
+ Sukses mengambil data produk.
+[Log Activity : 22/12/2024 16:56:45 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 16:56:46 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 16:56:46 WIB] Log Information : Navigated to main menu.
+[Log Activity : 22/12/2024 16:56:48 WIB] Log Information : 
+ Sukses mengambil data produk.
+[Log Activity : 22/12/2024 16:56:48 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 16:56:49 WIB] Log Information : Navigated to main menu.
+[Log Activity : 22/12/2024 16:56:50 WIB] Log Information : 
+ Sukses mengambil data produk.
+[Log Activity : 22/12/2024 16:56:50 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 16:56:50 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 16:56:50 WIB] Log Information : Navigated to main menu.
+[Log Activity : 22/12/2024 16:56:52 WIB] Log Information : 
+ Sukses mengambil data produk.
+[Log Activity : 22/12/2024 16:56:52 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 16:56:53 WIB] Log Information : Navigated to main menu.
+[Log Activity : 22/12/2024 16:57:16 WIB] Log Information : 
+ User logged out: rifyal.
+[Log Activity : 22/12/2024 16:57:16 WIB] Log Information : 
+ User logged out information: User{ID_User=6, Nama='Rifyal', Username='rifyal', Password='1234', levelAkses='admin'}.
+[Log Activity : 22/12/2024 16:57:56 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 16:58:47 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 22/12/2024 16:58:47 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 22/12/2024 16:58:52 WIB] Log Information : 
+ User logged out: rifyal12.
+[Log Activity : 22/12/2024 16:58:52 WIB] Log Information : 
+ User logged out information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 22/12/2024 16:58:57 WIB] Log Information : 
+ User logged in: rifyal.
+[Log Activity : 22/12/2024 16:58:57 WIB] Log Information : 
+ User logged in information: User{ID_User=6, Nama='Rifyal', Username='rifyal', Password='1234', levelAkses='admin'}.
+[Log Activity : 22/12/2024 16:59:00 WIB] Log Information : 
+ Sukses mengambil data produk.
+[Log Activity : 22/12/2024 16:59:00 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 16:59:01 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 16:59:01 WIB] Log Information : Navigated to main menu.
+[Log Activity : 22/12/2024 17:03:54 WIB] Log Information : 
+ User logged in: RIFYAL.
+[Log Activity : 22/12/2024 17:03:54 WIB] Log Information : 
+ User logged in information: User{ID_User=6, Nama='Rifyal', Username='RIFYAL', Password='1234', levelAkses='admin'}.
+[Log Activity : 22/12/2024 17:03:58 WIB] Log Information : 
+ Sukses mengambil data produk.
+[Log Activity : 22/12/2024 17:03:58 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 17:03:59 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 17:03:59 WIB] Log Information : Navigated to main menu.
+[Log Activity : 22/12/2024 17:06:24 WIB] Log Information : 
+ User logged in: rifyal.
+[Log Activity : 22/12/2024 17:06:24 WIB] Log Information : 
+ User logged in information: User{ID_User=6, Nama='Rifyal', Username='rifyal', Password='1234', levelAkses='admin'}.
+[Log Activity : 22/12/2024 17:06:28 WIB] Log Information : 
+ Sukses mengambil data produk.
+[Log Activity : 22/12/2024 17:06:28 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 17:06:33 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 17:06:33 WIB] Log Information : Navigated to main menu.
+[Log Activity : 22/12/2024 17:06:36 WIB] Log Information : Navigated to main menu.
+[Log Activity : 22/12/2024 17:06:37 WIB] Log Information : 
+ Sukses mengambil data produk.
+[Log Activity : 22/12/2024 17:06:37 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 17:06:38 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 17:06:38 WIB] Log Information : Navigated to main menu.
+[Log Activity : 22/12/2024 17:06:40 WIB] Log Information : Navigated to main menu.
+[Log Activity : 22/12/2024 17:06:42 WIB] Log Information : 
+ Sukses mengambil data produk.
+[Log Activity : 22/12/2024 17:06:42 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 17:06:44 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 17:06:44 WIB] Log Information : Navigated to main menu.
+[Log Activity : 22/12/2024 17:17:55 WIB] Log Information : 
+ User logged in: rifyal.
+[Log Activity : 22/12/2024 17:17:55 WIB] Log Information : 
+ User logged in information: User{ID_User=6, Nama='Rifyal', Username='rifyal', Password='1234', levelAkses='admin'}.
+[Log Activity : 22/12/2024 17:18:03 WIB] Log Information : 
+ Sukses mengambil data produk.
+[Log Activity : 22/12/2024 17:18:03 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 17:18:09 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 17:18:09 WIB] Log Information : Navigated to laporan keuangan.
+[Log Activity : 22/12/2024 17:18:19 WIB] Log Information : 
+ Sukses mengambil data produk.
+[Log Activity : 22/12/2024 17:18:19 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 17:18:20 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 17:18:20 WIB] Log Information : Navigated to laporan keuangan.
+[Log Activity : 22/12/2024 17:18:21 WIB] Log Information : Navigated to main menu.
+[Log Activity : 22/12/2024 17:18:23 WIB] Log Information : 
+ Sukses mengambil data produk.
+[Log Activity : 22/12/2024 17:18:23 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 17:18:24 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 17:18:24 WIB] Log Information : Navigated to laporan keuangan.
+[Log Activity : 22/12/2024 17:18:26 WIB] Log Information : Navigated to main menu.
+[Log Activity : 22/12/2024 17:18:27 WIB] Log Information : 
+ Sukses mengambil data produk.
+[Log Activity : 22/12/2024 17:18:27 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 17:18:28 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 17:18:28 WIB] Log Information : Navigated to laporan keuangan.
+[Log Activity : 22/12/2024 17:18:30 WIB] Log Information : Navigated to main menu.
+[Log Activity : 22/12/2024 17:18:31 WIB] Log Information : 
+ Sukses mengambil data produk.
+[Log Activity : 22/12/2024 17:18:31 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 17:18:32 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 17:18:32 WIB] Log Information : Navigated to laporan keuangan.
+[Log Activity : 22/12/2024 17:18:35 WIB] Log Information : 
+ User logged out: rifyal.
+[Log Activity : 22/12/2024 17:18:35 WIB] Log Information : 
+ User logged out information: User{ID_User=6, Nama='Rifyal', Username='rifyal', Password='1234', levelAkses='admin'}.
+[Log Activity : 22/12/2024 17:44:22 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 17:48:04 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 17:48:34 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 22/12/2024 17:52:59 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 23/12/2024 09:35:44 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 25/12/2024 11:31:26 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 25/12/2024 11:33:04 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 25/12/2024 11:34:08 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 25/12/2024 12:33:40 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 25/12/2024 12:33:41 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 25/12/2024 12:34:30 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 25/12/2024 12:34:46 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 25/12/2024 12:35:56 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 25/12/2024 12:40:23 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 25/12/2024 12:40:54 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 25/12/2024 12:47:32 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 25/12/2024 12:49:20 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 25/12/2024 12:49:20 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 25/12/2024 12:49:45 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 25/12/2024 13:04:47 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 25/12/2024 13:04:47 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 25/12/2024 13:05:29 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 25/12/2024 13:08:56 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 25/12/2024 13:08:57 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 25/12/2024 13:09:04 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 25/12/2024 21:07:25 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 25/12/2024 21:07:26 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 25/12/2024 21:08:14 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 25/12/2024 21:14:52 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 25/12/2024 21:14:52 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 25/12/2024 21:15:20 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 25/12/2024 21:18:44 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 25/12/2024 21:18:44 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 25/12/2024 21:19:11 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 25/12/2024 21:25:45 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 25/12/2024 21:37:25 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 25/12/2024 21:37:25 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 25/12/2024 21:37:31 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 25/12/2024 21:48:12 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 25/12/2024 21:48:12 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 25/12/2024 21:48:25 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 25/12/2024 21:57:34 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 25/12/2024 21:57:34 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 25/12/2024 21:57:40 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 25/12/2024 21:59:38 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 25/12/2024 21:59:38 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 25/12/2024 21:59:43 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 25/12/2024 22:05:37 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 25/12/2024 22:05:37 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 25/12/2024 22:05:42 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 25/12/2024 22:12:19 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 25/12/2024 22:12:19 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 25/12/2024 22:12:24 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 25/12/2024 22:20:16 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 25/12/2024 22:20:16 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 25/12/2024 22:20:21 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 27/12/2024 04:15:57 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 27/12/2024 04:17:17 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 27/12/2024 04:17:19 WIB] Log Information : 
+ Sukses mengambil data produk.
+[Log Activity : 27/12/2024 04:17:19 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 27/12/2024 04:17:22 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 27/12/2024 04:17:22 WIB] Log Information : Navigated to laporan keuangan.
+[Log Activity : 27/12/2024 04:18:46 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 27/12/2024 04:18:51 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 27/12/2024 04:20:20 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 27/12/2024 04:20:25 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 27/12/2024 04:20:28 WIB] Log Information : Navigated to main menu.
+[Log Activity : 27/12/2024 04:33:26 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 27/12/2024 04:34:55 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 27/12/2024 04:36:35 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 27/12/2024 04:36:51 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 27/12/2024 10:47:54 WIB] Log Information : 
+ User logged in: rifyal.
+[Log Activity : 27/12/2024 10:47:54 WIB] Log Information : 
+ User logged in information: User{ID_User=6, Nama='Rifyal', Username='rifyal', Password='1234', levelAkses='admin'}.
+[Log Activity : 27/12/2024 10:47:57 WIB] Log Information : 
+ Sukses mengambil data produk.
+[Log Activity : 27/12/2024 10:47:57 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 27/12/2024 10:48:22 WIB] Log Information : 
+ User logged out: rifyal.
+[Log Activity : 27/12/2024 10:48:22 WIB] Log Information : 
+ User logged out information: User{ID_User=6, Nama='Rifyal', Username='rifyal', Password='1234', levelAkses='admin'}.
+[Log Activity : 27/12/2024 10:48:26 WIB] Log Information : 
+ User logged in: owner.
+[Log Activity : 27/12/2024 10:48:26 WIB] Log Information : 
+ User logged in information: User{ID_User=65, Nama='owner', Username='owner', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 11:00:46 WIB] Log Information : 
+ User logged in: owner.
+[Log Activity : 27/12/2024 11:00:46 WIB] Log Information : 
+ User logged in information: User{ID_User=65, Nama='owner', Username='owner', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 11:02:23 WIB] Log Information : 
+ User logged in: owner.
+[Log Activity : 27/12/2024 11:02:23 WIB] Log Information : 
+ User logged in information: User{ID_User=65, Nama='owner', Username='owner', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 11:04:15 WIB] Log Information : 
+ User logged in: rifyal.
+[Log Activity : 27/12/2024 11:04:15 WIB] Log Information : 
+ User logged in information: User{ID_User=6, Nama='Rifyal', Username='rifyal', Password='1234', levelAkses='admin'}.
+[Log Activity : 27/12/2024 11:04:20 WIB] Log Information : 
+ Sukses mengambil data produk.
+[Log Activity : 27/12/2024 11:04:20 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 27/12/2024 11:04:22 WIB] Log Information : 
+ User logged out: rifyal.
+[Log Activity : 27/12/2024 11:04:22 WIB] Log Information : 
+ User logged out information: User{ID_User=6, Nama='Rifyal', Username='rifyal', Password='1234', levelAkses='admin'}.
+[Log Activity : 27/12/2024 11:07:45 WIB] Log Information : 
+ User logged in: owner.
+[Log Activity : 27/12/2024 11:07:46 WIB] Log Information : 
+ User logged in information: User{ID_User=65, Nama='owner', Username='owner', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 11:08:47 WIB] Log Information : 
+ User logged in: owner.
+[Log Activity : 27/12/2024 11:08:47 WIB] Log Information : 
+ User logged in information: User{ID_User=65, Nama='owner', Username='owner', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 11:09:12 WIB] Log Information : 
+ User logged in: rifyal.
+[Log Activity : 27/12/2024 11:09:12 WIB] Log Information : 
+ User logged in information: User{ID_User=6, Nama='Rifyal', Username='rifyal', Password='1234', levelAkses='admin'}.
+[Log Activity : 27/12/2024 11:09:15 WIB] Log Information : 
+ Sukses mengambil data produk.
+[Log Activity : 27/12/2024 11:09:15 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 27/12/2024 11:09:36 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 11:09:36 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 11:10:17 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 11:10:17 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 11:11:16 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 11:11:16 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 11:11:38 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 11:11:38 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 11:11:57 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 11:11:57 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 11:12:07 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 11:12:07 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 11:12:30 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 11:12:30 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 11:13:05 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 11:13:05 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 11:13:31 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 11:13:31 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 11:14:29 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 11:14:29 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 11:15:55 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 11:15:55 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 11:16:23 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 11:16:23 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 11:17:14 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 11:17:14 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 11:18:00 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 11:18:00 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 11:18:21 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 11:18:21 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 11:18:55 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 11:18:55 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 11:19:28 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 11:19:28 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 11:19:50 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 11:19:50 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 11:20:14 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 11:20:14 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 11:20:47 WIB] Log Information : 
+ User logged in:   .
+[Log Activity : 27/12/2024 11:20:47 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username='  ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 11:21:30 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 11:21:30 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 11:22:05 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 11:22:05 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 11:22:34 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 11:22:34 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 11:23:49 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 11:23:49 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 11:24:13 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 11:24:13 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 11:25:10 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 11:25:10 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 11:28:14 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 11:28:14 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 11:29:28 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 11:29:28 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 14:08:53 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 14:08:53 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 14:10:52 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 14:10:52 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 14:12:11 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 14:12:11 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 14:13:47 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 14:13:47 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 14:17:19 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 14:17:19 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 14:19:05 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 14:19:05 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 14:19:47 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 14:19:47 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 14:29:28 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 14:29:28 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 14:35:31 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 14:35:31 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 14:37:33 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 14:37:33 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 14:40:21 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 14:40:21 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 14:46:41 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 14:46:41 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 14:53:32 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 14:53:32 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 14:58:16 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 14:58:16 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 15:12:57 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 15:12:57 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 15:18:01 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 15:18:01 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 15:21:02 WIB] Log Information : 
+ User logged in: rifyal.
+[Log Activity : 27/12/2024 15:21:02 WIB] Log Information : 
+ User logged in information: User{ID_User=6, Nama='Rifyal', Username='rifyal', Password='1234', levelAkses='admin'}.
+[Log Activity : 27/12/2024 15:21:06 WIB] Log Information : 
+ Sukses mengambil data produk.
+[Log Activity : 27/12/2024 15:21:06 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 27/12/2024 15:21:39 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 27/12/2024 15:21:39 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 27/12/2024 15:23:12 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 27/12/2024 15:23:12 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 27/12/2024 15:24:51 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 27/12/2024 15:24:51 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 27/12/2024 15:25:59 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 27/12/2024 15:25:59 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 27/12/2024 15:30:31 WIB] Log Information : 
+ User logged in: SHIROKO.
+[Log Activity : 27/12/2024 15:30:31 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='SHIROKO', Password='1234', levelAkses='owner'}.
+[Log Activity : 27/12/2024 15:32:15 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 15:32:15 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 15:32:42 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 15:32:42 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 15:33:19 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 15:33:19 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 15:37:08 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 15:37:08 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 15:37:35 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 15:37:35 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 15:38:57 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 15:38:57 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 15:39:37 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 15:39:38 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 15:40:09 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 15:40:09 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 15:40:40 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 15:40:40 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 15:41:09 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 15:41:09 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 15:41:47 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 15:41:47 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 15:42:49 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 15:42:49 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 15:43:14 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 15:43:14 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 15:43:46 WIB] Log Information : 
+ User logged in: SHIROKO.
+[Log Activity : 27/12/2024 15:43:46 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='SHIROKO', Password='1234', levelAkses='owner'}.
+[Log Activity : 27/12/2024 15:50:21 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 15:50:21 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 15:50:44 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 15:50:45 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 15:51:00 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 15:51:00 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 15:51:21 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 15:51:21 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 15:52:42 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 15:52:42 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 15:56:57 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 27/12/2024 15:56:57 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 27/12/2024 16:03:10 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 16:03:10 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 16:03:43 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 16:03:43 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 16:04:34 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 16:04:34 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 16:04:55 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 16:04:55 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 16:05:44 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 16:05:44 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 16:06:17 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 16:06:17 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 16:06:38 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 16:06:38 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 16:06:57 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 16:06:57 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 16:07:17 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 16:07:17 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 16:07:55 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 16:07:55 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 16:08:18 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 16:08:18 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 16:11:40 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 16:11:40 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 16:15:00 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 16:15:00 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 16:15:41 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 16:15:41 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 16:16:25 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 16:16:25 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 16:16:49 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 16:16:49 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 16:19:07 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 16:19:07 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 16:19:31 WIB] Log Information : 
+ User logged in: SHIROKO.
+[Log Activity : 27/12/2024 16:19:31 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='SHIROKO', Password='1234', levelAkses='owner'}.
+[Log Activity : 27/12/2024 16:21:33 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 16:21:33 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 16:22:59 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 16:22:59 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 16:23:38 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 16:23:38 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 16:24:41 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 16:24:41 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 16:26:26 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 16:26:26 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 16:26:47 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 16:26:47 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 16:27:33 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 16:27:33 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 16:33:20 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 16:33:20 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 16:33:41 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 16:33:41 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 16:34:10 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 16:34:10 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 16:34:41 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 16:34:41 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 16:35:01 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 16:35:01 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 16:35:31 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 16:35:31 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 16:36:16 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 16:36:16 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 16:36:40 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 16:36:40 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 16:37:25 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 16:37:25 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 16:37:48 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 16:37:48 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 16:56:20 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 16:56:20 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 16:56:41 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 16:56:41 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 16:57:01 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 16:57:01 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 16:57:20 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 16:57:20 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 16:57:36 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 16:57:36 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 16:57:57 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 16:57:58 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 16:58:38 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 16:58:38 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 17:28:05 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 17:28:05 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 17:50:09 WIB] Log Information : 
+ User logged in: SHIROKO.
+[Log Activity : 27/12/2024 17:50:09 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='SHIROKO', Password='1234', levelAkses='owner'}.
+[Log Activity : 27/12/2024 17:57:17 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 27/12/2024 17:57:17 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 27/12/2024 17:57:49 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 17:57:49 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 18:02:06 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 27/12/2024 18:02:06 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 27/12/2024 18:02:30 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 18:02:30 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 18:05:08 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 18:05:08 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 18:08:32 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 27/12/2024 18:08:32 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 27/12/2024 18:09:09 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 27/12/2024 18:09:39 WIB] Log Information : 
+ User logged in: SHIROKO.
+[Log Activity : 27/12/2024 18:09:39 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='SHIROKO', Password='1234', levelAkses='owner'}.
+[Log Activity : 27/12/2024 18:12:09 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 27/12/2024 18:12:09 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 27/12/2024 18:13:10 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 27/12/2024 18:13:10 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 27/12/2024 18:14:12 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 27/12/2024 18:15:02 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 27/12/2024 18:15:02 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 27/12/2024 18:16:00 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 27/12/2024 18:16:00 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 27/12/2024 18:16:35 WIB] Log Information : 
+ User logged in: RIFYAL12.
+[Log Activity : 27/12/2024 18:16:35 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='RIFYAL12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 27/12/2024 18:18:31 WIB] Log Information : 
+ User logged in: SHIROKO.
+[Log Activity : 27/12/2024 18:18:31 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='SHIROKO', Password='1234', levelAkses='owner'}.
+[Log Activity : 27/12/2024 18:34:10 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 18:34:10 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 18:37:40 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 18:37:40 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 18:38:57 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 18:38:57 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 18:41:47 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 18:41:47 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 18:57:28 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 18:57:28 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 18:57:53 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 18:57:53 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 19:04:37 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 19:04:37 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 19:06:48 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 19:06:48 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 19:11:09 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 19:11:09 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 19:11:46 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 27/12/2024 19:11:46 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 27/12/2024 19:12:20 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 19:12:20 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 19:17:51 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 19:17:51 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 19:19:21 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 19:19:21 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 19:21:53 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 19:21:53 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 19:23:12 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 19:23:12 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 19:26:08 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 19:26:08 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 19:26:49 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 19:26:49 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 19:29:16 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 19:29:16 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 19:30:32 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 19:30:32 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 19:32:22 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 19:32:22 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 19:35:13 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 19:35:13 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 19:35:45 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 19:35:45 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 19:36:12 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 19:36:12 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 19:36:39 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 19:36:39 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 19:37:04 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 19:37:04 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 19:37:21 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 19:37:21 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 19:37:46 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 19:37:46 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 19:38:06 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 19:38:06 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 19:45:04 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 19:45:04 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 19:46:39 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 19:46:39 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 19:49:26 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 19:49:26 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 19:49:59 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 19:49:59 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 19:53:21 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 19:53:21 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 19:54:45 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 19:54:45 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 19:58:49 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 19:58:49 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 20:01:30 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 20:01:30 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 20:05:16 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 20:05:16 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 20:09:35 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 20:09:35 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 23:23:16 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 27/12/2024 23:23:16 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 27/12/2024 23:33:30 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 23:33:30 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 23:51:53 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 23:51:53 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 23:52:36 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 23:52:36 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 23:52:58 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 23:52:58 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 23:53:21 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 23:53:21 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 23:54:10 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 23:54:10 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 23:55:00 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 23:55:00 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 23:55:20 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 23:55:20 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 23:55:39 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 23:55:39 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 27/12/2024 23:56:27 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 27/12/2024 23:56:27 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 00:08:36 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 00:08:36 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 00:09:32 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 00:09:32 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 00:10:17 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 00:10:17 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 00:10:56 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 00:10:56 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 00:11:43 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 00:11:43 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 00:12:37 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 00:12:37 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 00:13:34 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 00:13:34 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 00:15:02 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 00:15:02 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 00:15:45 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 00:15:45 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 00:17:11 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 28/12/2024 00:17:11 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 28/12/2024 00:17:48 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 28/12/2024 00:17:48 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 28/12/2024 00:18:46 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 28/12/2024 00:18:46 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 28/12/2024 00:20:21 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 28/12/2024 00:20:21 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 28/12/2024 00:23:31 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 00:23:31 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 00:25:06 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 00:25:06 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 00:30:56 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 00:30:56 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 00:31:36 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 00:31:36 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 00:41:16 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 00:41:16 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 00:43:26 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 00:43:26 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 00:45:35 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 00:45:35 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 00:49:01 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 00:49:01 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 00:49:40 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 00:49:40 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 00:51:00 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 00:51:00 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 00:51:40 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 00:51:40 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 00:56:02 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 00:56:02 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 00:57:20 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 00:57:20 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 00:59:36 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 00:59:36 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 01:00:10 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 01:00:10 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 01:02:13 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 01:02:13 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 01:02:37 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 01:02:37 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 01:02:56 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 01:02:56 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 01:03:33 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 01:03:33 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 01:03:50 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 01:03:50 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 01:07:34 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 01:07:34 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 01:08:54 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 01:08:54 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 01:09:50 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 01:09:50 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 01:10:38 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 01:10:38 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 01:14:42 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 01:14:42 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 01:15:23 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 01:15:23 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 01:16:49 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 01:16:49 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 01:19:14 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 01:19:15 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 01:23:31 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 01:23:31 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 01:24:38 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 01:24:38 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 01:30:29 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 01:30:29 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 01:31:58 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 01:31:58 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 01:35:11 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 01:35:11 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 01:37:07 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 01:37:07 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 06:01:11 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 06:01:11 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 06:15:00 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 06:15:00 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 06:16:32 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 06:16:32 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 06:17:50 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 06:17:50 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 07:00:52 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 07:00:52 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 07:03:20 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 07:03:20 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 07:06:12 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 07:06:12 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 07:06:48 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 07:06:48 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 07:07:44 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 07:07:44 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 07:08:32 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 07:08:32 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 07:09:36 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 07:09:36 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 09:14:12 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 09:14:12 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 09:14:48 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 09:14:48 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 09:16:56 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 09:16:56 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 09:18:09 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 09:18:09 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 09:18:36 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 09:18:36 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 09:19:26 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 09:19:26 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 09:20:02 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 09:20:02 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 09:27:57 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 09:27:57 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 09:29:38 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 09:29:38 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 09:32:22 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 09:32:22 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 21:39:53 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 28/12/2024 21:39:53 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 28/12/2024 21:48:36 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 21:48:36 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 21:49:29 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 21:49:29 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 21:50:12 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 21:50:13 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 21:51:02 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 21:51:02 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 22:03:40 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 22:03:40 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 22:04:21 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 22:04:21 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 22:24:40 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 22:24:40 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 22:28:54 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 22:28:54 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 22:29:18 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 22:29:18 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 22:30:49 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 22:30:49 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 22:31:51 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 22:31:51 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 22:32:41 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 22:32:41 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 22:33:56 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 22:33:56 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 22:35:19 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 22:35:19 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 22:41:52 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 22:41:52 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 22:44:54 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 22:44:54 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 22:48:27 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 22:48:27 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 22:49:26 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 22:49:26 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 22:51:03 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 22:51:03 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 22:51:31 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 22:51:31 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 22:51:51 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 22:51:51 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 22:53:05 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 22:53:05 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 22:54:40 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 22:54:40 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 22:57:11 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 22:57:11 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 22:57:52 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 22:57:52 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 23:03:04 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 23:03:04 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 23:05:31 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 23:05:31 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 23:09:25 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 23:09:25 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 23:10:29 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 23:10:29 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 23:12:44 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 23:12:44 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 23:13:30 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 23:13:30 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 23:14:26 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 23:14:26 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 23:15:05 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 23:15:05 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 23:24:24 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 23:24:24 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 23:31:48 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 23:31:48 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 23:33:08 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 23:33:08 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 23:34:26 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 23:34:26 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 23:36:33 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 23:36:33 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 23:37:57 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 23:37:57 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 23:39:34 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 23:39:34 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 23:40:25 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 23:40:25 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 23:41:49 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 23:41:49 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 23:42:55 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 23:42:55 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 23:44:02 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 23:44:02 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 23:44:55 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 23:44:55 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 23:45:38 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 23:45:38 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 23:47:12 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 23:47:12 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 28/12/2024 23:47:58 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 28/12/2024 23:47:58 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 29/12/2024 04:15:00 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 29/12/2024 04:15:00 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 29/12/2024 04:18:29 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 29/12/2024 04:18:29 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 29/12/2024 04:21:06 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 29/12/2024 04:21:06 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 29/12/2024 04:22:21 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 29/12/2024 04:22:21 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 29/12/2024 04:23:22 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 29/12/2024 04:23:23 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 29/12/2024 04:27:00 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 29/12/2024 04:27:00 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 29/12/2024 04:49:56 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 29/12/2024 04:49:56 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 29/12/2024 04:50:53 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 29/12/2024 04:50:53 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 29/12/2024 04:52:57 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 29/12/2024 04:52:57 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 29/12/2024 04:53:54 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 29/12/2024 04:53:54 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 29/12/2024 04:57:08 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 29/12/2024 04:57:08 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 29/12/2024 04:58:54 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 29/12/2024 04:58:54 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 29/12/2024 04:59:32 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 29/12/2024 04:59:32 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 29/12/2024 05:01:10 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 29/12/2024 05:01:10 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 29/12/2024 05:03:12 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 29/12/2024 05:03:12 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 29/12/2024 23:04:56 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 29/12/2024 23:04:56 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 29/12/2024 23:06:16 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 29/12/2024 23:06:16 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 29/12/2024 23:07:16 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 29/12/2024 23:07:16 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 29/12/2024 23:09:06 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 29/12/2024 23:09:06 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 29/12/2024 23:11:30 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 29/12/2024 23:11:30 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 29/12/2024 23:12:40 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 29/12/2024 23:12:40 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 29/12/2024 23:13:37 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 29/12/2024 23:13:37 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 29/12/2024 23:23:12 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 29/12/2024 23:23:13 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 29/12/2024 23:24:02 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 29/12/2024 23:24:02 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 29/12/2024 23:24:25 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 29/12/2024 23:24:25 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 29/12/2024 23:24:41 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 29/12/2024 23:24:41 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 29/12/2024 23:25:15 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 29/12/2024 23:25:15 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 29/12/2024 23:25:59 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 29/12/2024 23:25:59 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 29/12/2024 23:26:25 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 29/12/2024 23:26:25 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 29/12/2024 23:26:48 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 29/12/2024 23:26:48 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 29/12/2024 23:27:25 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 29/12/2024 23:27:25 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 29/12/2024 23:28:19 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 29/12/2024 23:28:19 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 29/12/2024 23:29:15 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 29/12/2024 23:29:15 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 29/12/2024 23:32:53 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 29/12/2024 23:32:53 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 29/12/2024 23:33:53 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 29/12/2024 23:33:53 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 29/12/2024 23:35:40 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 29/12/2024 23:35:40 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 29/12/2024 23:36:42 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 29/12/2024 23:36:42 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 30/12/2024 11:45:14 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 30/12/2024 11:45:14 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 06/01/2025 10:32:35 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 06/01/2025 10:32:35 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 06/01/2025 10:34:12 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 06/01/2025 10:34:12 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 06/01/2025 10:35:16 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 06/01/2025 10:35:16 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 08/01/2025 04:41:33 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 08/01/2025 04:41:33 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 08/01/2025 04:52:05 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 08/01/2025 04:52:05 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 08/01/2025 04:53:24 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 08/01/2025 04:53:24 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 08/01/2025 04:56:32 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 08/01/2025 05:19:39 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 08/01/2025 05:19:39 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 08/01/2025 05:20:55 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 08/01/2025 05:20:55 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 08/01/2025 12:21:52 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 08/01/2025 12:21:52 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 08/01/2025 12:22:29 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 08/01/2025 12:22:29 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 08/01/2025 12:23:07 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 08/01/2025 12:23:07 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 08/01/2025 12:23:38 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 08/01/2025 12:23:38 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 08/01/2025 12:24:26 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 08/01/2025 12:24:26 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 08/01/2025 12:24:57 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 08/01/2025 12:24:57 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 08/01/2025 12:36:46 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 08/01/2025 12:36:46 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 08/01/2025 12:38:38 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 08/01/2025 12:38:38 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='12345', levelAkses='owner'}.
+[Log Activity : 08/01/2025 12:48:46 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 08/01/2025 12:48:46 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='12345', levelAkses='owner'}.
+[Log Activity : 08/01/2025 12:51:59 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 08/01/2025 12:51:59 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 08/01/2025 12:57:09 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 08/01/2025 12:57:09 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='12345', levelAkses='owner'}.
+[Log Activity : 08/01/2025 12:58:25 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 08/01/2025 12:58:25 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 08/01/2025 13:02:03 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 08/01/2025 13:02:03 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 08/01/2025 13:06:33 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 08/01/2025 13:06:33 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 08/01/2025 13:08:00 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 08/01/2025 13:08:00 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 08/01/2025 13:09:09 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 08/01/2025 13:09:09 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 08/01/2025 13:09:57 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 08/01/2025 13:09:57 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 08/01/2025 13:14:41 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 08/01/2025 13:14:41 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 08/01/2025 13:28:03 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 08/01/2025 13:28:03 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 08/01/2025 13:32:36 WIB] Log Information : 
+ User logged in: 1.
+[Log Activity : 08/01/2025 13:32:36 WIB] Log Information : 
+ User logged in information: User{ID_User=64, Nama='1', Username='1', Password='1', levelAkses='kasir'}.
+[Log Activity : 08/01/2025 13:33:14 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 08/01/2025 13:34:19 WIB] Log Information : Navigated to main menu.
+[Log Activity : 08/01/2025 13:34:52 WIB] Log Information : 
+ User logged out: 1.
+[Log Activity : 08/01/2025 13:34:52 WIB] Log Information : 
+ User logged out information: User{ID_User=64, Nama='1', Username='1', Password='1', levelAkses='kasir'}.
+[Log Activity : 08/01/2025 13:35:09 WIB] Log Information : 
+ User logged in: rifyal.
+[Log Activity : 08/01/2025 13:35:09 WIB] Log Information : 
+ User logged in information: User{ID_User=6, Nama='Rifyal', Username='rifyal', Password='1234', levelAkses='admin'}.
+[Log Activity : 08/01/2025 13:35:16 WIB] Log Information : 
+ Sukses mengambil data produk.
+[Log Activity : 08/01/2025 13:35:16 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 08/01/2025 13:36:06 WIB] Log Information : 
+ User logged out: rifyal.
+[Log Activity : 08/01/2025 13:36:06 WIB] Log Information : 
+ User logged out information: User{ID_User=6, Nama='Rifyal', Username='rifyal', Password='1234', levelAkses='admin'}.
+[Log Activity : 08/01/2025 13:36:11 WIB] Log Information : 
+ User logged in: esa.
+[Log Activity : 08/01/2025 13:36:11 WIB] Log Information : 
+ User logged in information: User{ID_User=68, Nama='esa', Username='esa', Password='1', levelAkses='owner'}.
+[Log Activity : 08/01/2025 13:43:22 WIB] Log Information : 
+ User logged in: esa.
+[Log Activity : 08/01/2025 13:43:22 WIB] Log Information : 
+ User logged in information: User{ID_User=68, Nama='esa', Username='esa', Password='1', levelAkses='owner'}.
+[Log Activity : 08/01/2025 13:46:06 WIB] Log Information : 
+ User logged in: esa.
+[Log Activity : 08/01/2025 13:46:06 WIB] Log Information : 
+ User logged in information: User{ID_User=68, Nama='esa', Username='esa', Password='1', levelAkses='owner'}.
+[Log Activity : 08/01/2025 13:46:40 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 08/01/2025 13:46:40 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password='1', levelAkses='owner'}.
+[Log Activity : 08/01/2025 13:50:31 WIB] Log Information : 
+ User logged in: esa.
+[Log Activity : 08/01/2025 13:50:31 WIB] Log Information : 
+ User logged in information: User{ID_User=68, Nama='esa', Username='esa', Password='1', levelAkses='owner'}.
+[Log Activity : 08/01/2025 14:32:50 WIB] Log Information : 
+ User logged in: esa.
+[Log Activity : 08/01/2025 14:32:50 WIB] Log Information : 
+ User logged in information: User{ID_User=68, Nama='esa', Username='esa', Password='1', levelAkses='owner'}.
+[Log Activity : 08/01/2025 14:41:50 WIB] Log Information : 
+ User logged in: esa.
+[Log Activity : 08/01/2025 14:41:50 WIB] Log Information : 
+ User logged in information: User{ID_User=68, Nama='esa', Username='esa', Password='1', levelAkses='owner'}.
+[Log Activity : 08/01/2025 14:45:24 WIB] Log Information : 
+ User logged in: esa.
+[Log Activity : 08/01/2025 14:45:24 WIB] Log Information : 
+ User logged in information: User{ID_User=68, Nama='esa', Username='esa', Password='1', levelAkses='owner'}.
+[Log Activity : 08/01/2025 14:48:12 WIB] Log Information : 
+ User logged in: esa.
+[Log Activity : 08/01/2025 14:48:12 WIB] Log Information : 
+ User logged in information: User{ID_User=68, Nama='esa', Username='esa', Password='1', levelAkses='owner'}.
+[Log Activity : 08/01/2025 14:59:18 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 08/01/2025 14:59:18 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password='1', levelAkses='owner'}.
+[Log Activity : 08/01/2025 15:04:26 WIB] Log Information : 
+ User logged in: esa.
+[Log Activity : 08/01/2025 15:04:26 WIB] Log Information : 
+ User logged in information: User{ID_User=68, Nama='esa', Username='esa', Password='1', levelAkses='owner'}.
+[Log Activity : 08/01/2025 15:10:49 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 08/01/2025 15:10:49 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 08/01/2025 15:11:07 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 08/01/2025 15:11:07 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 08/01/2025 15:31:20 WIB] Log Information : 
+ User logged out: rifyal12.
+[Log Activity : 08/01/2025 15:31:20 WIB] Log Information : 
+ User logged out information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 08/01/2025 15:31:34 WIB] Log Information : 
+ User logged in: rifyal.
+[Log Activity : 08/01/2025 15:31:34 WIB] Log Information : 
+ User logged in information: User{ID_User=6, Nama='Rifyal', Username='rifyal', Password='1234', levelAkses='admin'}.
+[Log Activity : 08/01/2025 15:31:38 WIB] Log Information : 
+ Sukses mengambil data produk.
+[Log Activity : 08/01/2025 15:31:38 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 08/01/2025 15:32:22 WIB] Log Information : 
+ Sukses mengambil data produk.
+[Log Activity : 08/01/2025 15:32:29 WIB] Log Information : 
+ User logged out: rifyal.
+[Log Activity : 08/01/2025 15:32:29 WIB] Log Information : 
+ User logged out information: User{ID_User=6, Nama='Rifyal', Username='rifyal', Password='1234', levelAkses='admin'}.
+[Log Activity : 08/01/2025 15:32:39 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 08/01/2025 15:32:39 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 11/01/2025 23:47:30 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 11/01/2025 23:47:30 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1', levelAkses='owner'}.
+[Log Activity : 11/01/2025 23:48:29 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 11/01/2025 23:48:29 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 11/01/2025 23:51:09 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 11/01/2025 23:51:09 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 11/01/2025 23:51:56 WIB] Log Information : 
+ User logged in:  .
+[Log Activity : 11/01/2025 23:51:56 WIB] Log Information : 
+ User logged in information: User{ID_User=66, Nama=' ', Username=' ', Password=' ', levelAkses='owner'}.
+[Log Activity : 11/01/2025 23:53:05 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 11/01/2025 23:53:05 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 11/01/2025 23:53:13 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 12/01/2025 00:12:52 WIB] Log Information : 
+ User logged in: rifyal.
+[Log Activity : 12/01/2025 00:12:52 WIB] Log Information : 
+ User logged in information: User{ID_User=6, Nama='Rifyal', Username='rifyal', Password='1234', levelAkses='admin'}.
+[Log Activity : 12/01/2025 00:12:55 WIB] Log Information : 
+ Sukses mengambil data produk.
+[Log Activity : 12/01/2025 00:12:55 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 12/01/2025 00:13:54 WIB] Log Information : 
+ Sukses mengambil data produk.
+[Log Activity : 12/01/2025 00:14:13 WIB] Log Information : 
+ User with ID 63 deleted (Profile not found).
+[Log Activity : 12/01/2025 00:14:22 WIB] Log Information : 
+ User with ID 64 deleted (Profile not found).
+[Log Activity : 12/01/2025 00:15:44 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 12/01/2025 00:15:44 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 12/01/2025 00:16:26 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 12/01/2025 00:16:26 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 12/01/2025 00:17:10 WIB] Log Information : 
+ User logged in: SHIROKO.
+[Log Activity : 12/01/2025 00:17:10 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='SHIROKO', Password='1234', levelAkses='owner'}.
+[Log Activity : 12/01/2025 00:19:11 WIB] Log Information : 
+ User logged in: RIFYAL12.
+[Log Activity : 12/01/2025 00:19:11 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='RIFYAL12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 12/01/2025 00:19:52 WIB] Log Information : 
+ User logged in: SHIROKO.
+[Log Activity : 12/01/2025 00:19:52 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='SHIROKO', Password='1234', levelAkses='owner'}.
+[Log Activity : 12/01/2025 00:37:46 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 12/01/2025 00:37:46 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 12/01/2025 00:54:31 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 12/01/2025 00:54:31 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 12/01/2025 00:55:21 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 12/01/2025 00:55:21 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.

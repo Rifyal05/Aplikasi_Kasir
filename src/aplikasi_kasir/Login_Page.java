@@ -3,61 +3,40 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
 package aplikasi_kasir;
+
 import function.LoginController;
 import javax.swing.*;
 import function.User;
 
 public class Login_Page extends javax.swing.JFrame {
-    
+
     public static String loggedInUsername;
+
     /**
      * Creates new form login_Page
      */
     public Login_Page() {
         initComponents();
+
+        setLocationRelativeTo(null);
+
+        jPasswordField1.addKeyListener(new java.awt.event.KeyAdapter() {
+            public void keyPressed(java.awt.event.KeyEvent evt) {
+                if (evt.getKeyCode() == java.awt.event.KeyEvent.VK_ENTER) {
+                    button1ActionPerformed(null); // Panggil fungsi login
+                }
+            }
+        });
+
         System.out.println(button1);
         System.out.println("Inisiasi addActionListener");
-        
-        
+
         button1.setLabel("Login");
         jPanel2.add(button1, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 200, 217, -1));
-        button1.addActionListener(e -> {
-    String username = jTextField1.getText();
-    char[] passwordChars = jPasswordField1.getPassword();
-    String password = new String(passwordChars);
+        System.out.println("Berhasil inisiasi addActionListener");
+        System.out.println("Koneksi Berhasil");
 
-
-    LoginController loginController = new LoginController();
-    String authResult = loginController.authenticate(username, password); 
-
-    if (authResult.equals("success")) {
-        
-        // Ambil data profil
-        User user = loginController.getProfil(username); // Gunakan 'username'
-
-        if (user != null) { 
-            function.Log.savelog("\n User logged in: " + username);
-            function.Log.savelog("\n User logged in information: " + user.toString());
-            loggedInUsername = jTextField1.getText();
-            JOptionPane.showMessageDialog(this, "Login berhasil!");
-            Menu_Utama mainPage = new Menu_Utama(user);
-            mainPage.setVisible(true);
-            this.dispose(); 
-        } else {
-            JOptionPane.showMessageDialog(this, "Gagal mengambil data profil!");
-        }
-    } else {
-        JOptionPane.showMessageDialog(this, authResult);
-        jTextField1.setText("");
-        jPasswordField1.setText(""); 
     }
-});
-            System.out.println("Berhasil inisiasi addActionListener");
-            System.out.println("Koneksi Berhasil");
-
-}
-
-                
 
     /**
      * This method is called from within the constructor to initialize the form.
@@ -96,6 +75,11 @@ public class Login_Page extends javax.swing.JFrame {
             }
             public void focusLost(java.awt.event.FocusEvent evt) {
                 jTextField1FocusLost(evt);
+            }
+        });
+        jTextField1.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextField1ActionPerformed(evt);
             }
         });
 
@@ -181,14 +165,14 @@ public class Login_Page extends javax.swing.JFrame {
 
     private void jTextField1FocusGained(java.awt.event.FocusEvent evt) {//GEN-FIRST:event_jTextField1FocusGained
         String username = jTextField1.getText();
-        if (username.equals("Username")){
+        if (username.equals("Username")) {
             jTextField1.setText("");
         }
     }//GEN-LAST:event_jTextField1FocusGained
 
     private void jTextField1FocusLost(java.awt.event.FocusEvent evt) {//GEN-FIRST:event_jTextField1FocusLost
         String username = jTextField1.getText();
-        if (username.equals("")||username.equals("Username")){
+        if (username.equals("") || username.equals("Username")) {
             jTextField1.setText("Username");
         }
     }//GEN-LAST:event_jTextField1FocusLost
@@ -198,8 +182,51 @@ public class Login_Page extends javax.swing.JFrame {
     }//GEN-LAST:event_jPasswordField1ActionPerformed
 
     private void button1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_button1ActionPerformed
-            // TODO add your handling code here:
+        // TODO add your handling code here:
+        String username = jTextField1.getText();
+        char[] passwordChars = jPasswordField1.getPassword();
+        String password = new String(passwordChars);
+
+        LoginController loginController = new LoginController();
+        String authResult = loginController.authenticate(username, password);
+
+        if (authResult.equals("success")) {
+
+            // Ambil data profil
+            User user = loginController.getProfil(username); // Gunakan 'username'
+
+            if (user != null) {
+                function.Log.savelog("\n User logged in: " + username);
+                function.Log.savelog("\n User logged in information: " + user.toString());
+                loggedInUsername = jTextField1.getText();
+                JOptionPane.showMessageDialog(this, "Login berhasil!");
+                if (user.getLevelAkses().equals("admin")) {
+                    Menu_Utama mainPage = new Menu_Utama(user);
+                    mainPage.setVisible(true);
+                } else if (user.getLevelAkses().equals("kasir")) {
+                    Menu_UtamaKasir kasirPage = new Menu_UtamaKasir(user); // Pastikan Anda memiliki kelas Halaman_UtamaKasir
+                    kasirPage.setVisible(true);
+                } else if (user.getLevelAkses().equals("owner")) { // Tambahkan kondisi untuk level akses "owner"
+                    dashboard_owner ownerPage = new dashboard_owner(user);
+                    ownerPage.setVisible(true);
+                } else {
+                    // Handle jika level akses tidak dikenali
+                    JOptionPane.showMessageDialog(this, "Level akses tidak valid!");
+                }
+                this.dispose();
+            } else {
+                JOptionPane.showMessageDialog(this, "Gagal mengambil data profil!");
+            }
+        } else {
+            JOptionPane.showMessageDialog(this, authResult);
+            jTextField1.setText("");
+            jPasswordField1.setText("");
+        }
     }//GEN-LAST:event_button1ActionPerformed
+
+    private void jTextField1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField1ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jTextField1ActionPerformed
 
     /**
      * @param args the command line arguments

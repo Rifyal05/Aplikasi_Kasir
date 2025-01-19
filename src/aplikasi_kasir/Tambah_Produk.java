@@ -4,7 +4,6 @@
  */
 package aplikasi_kasir;
 
-
 import function.koneksi_database;
 import java.awt.event.KeyEvent;
 import java.sql.Connection;
@@ -14,17 +13,19 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import javax.swing.JOptionPane;
 
-
 public class Tambah_Produk extends javax.swing.JDialog {
 
     /**
      * Creates new form TambahProduk
      */
-    public Tambah_Produk(java.awt.Frame parent, boolean modal) {
+    public Tambah_Produk(java.awt.Frame parent, boolean modal, String kodeProduk) {
         super(parent, modal);
         initComponents();
-        
+
         showProductCategory();
+
+        // Set nilai kode produk ke txtKode
+        txtKode.setText(kodeProduk);
     }
 
     /**
@@ -220,11 +221,11 @@ public class Tambah_Produk extends javax.swing.JDialog {
     }//GEN-LAST:event_txtHargaJualKeyTyped
 
     private void txtHargaBeliKeyTyped(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_txtHargaBeliKeyTyped
-        numberOnly(evt); 
+        numberOnly(evt);
     }//GEN-LAST:event_txtHargaBeliKeyTyped
 
     private void txtStokKeyTyped(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_txtStokKeyTyped
-        numberOnly(evt); 
+        numberOnly(evt);
     }//GEN-LAST:event_txtStokKeyTyped
 
     private void jButton3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton3ActionPerformed
@@ -243,19 +244,21 @@ public class Tambah_Produk extends javax.swing.JDialog {
             ps.setString(2, txtNama.getText());
             String[] X = cmbKategori.getSelectedItem().toString().split("-");
             ps.setString(3, X[1]);
-            ps.setDouble(4,Double.parseDouble(txtHargaJual.getText())); 
-            ps.setDouble(5,Double.parseDouble(txtHargaBeli.getText())); 
-            ps.setInt(6,Integer.parseInt(txtStok.getText())); 
+            ps.setDouble(4, Double.parseDouble(txtHargaJual.getText()));
+            ps.setDouble(5, Double.parseDouble(txtHargaBeli.getText()));
+            ps.setInt(6, Integer.parseInt(txtStok.getText()));
             ps.executeUpdate();
-            
-            Admin_Page.viewDataProduct(""); 
+
+            Admin_Page.viewDataProduct("");
             JOptionPane.showMessageDialog(this, "Data berhasil disimpan");
             txtNama.requestFocus();
             this.dispose();
+            
+            
         } catch (NumberFormatException | SQLException e) { // Print the full stack trace for detailed error info
             // Print the full stack trace for detailed error info
-    JOptionPane.showMessageDialog(this, "Error saving data: " + e.getMessage(), "Error", JOptionPane.ERROR_MESSAGE); // User-friendly error message
-}
+            JOptionPane.showMessageDialog(this, "Error saving data: " + e.getMessage(), "Error", JOptionPane.ERROR_MESSAGE); // User-friendly error message
+        }
     }//GEN-LAST:event_jButton3ActionPerformed
 
     private void txtKodeActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_txtKodeActionPerformed
@@ -271,7 +274,7 @@ public class Tambah_Produk extends javax.swing.JDialog {
     }//GEN-LAST:event_txtHargaJualActionPerformed
 
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
-    this.setVisible(false);        // TODO add your handling code here:
+        this.setVisible(false);        // TODO add your handling code here:
     }//GEN-LAST:event_jButton2ActionPerformed
 
     /**
@@ -307,7 +310,7 @@ public class Tambah_Produk extends javax.swing.JDialog {
         /* Create and display the dialog */
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
-                Tambah_Produk dialog = new Tambah_Produk(new javax.swing.JFrame(), true);
+                Tambah_Produk dialog = new Tambah_Produk(new javax.swing.JFrame(), true, "");
                 dialog.addWindowListener(new java.awt.event.WindowAdapter() {
                     @Override
                     public void windowClosing(java.awt.event.WindowEvent e) {
@@ -338,31 +341,32 @@ public class Tambah_Produk extends javax.swing.JDialog {
     private javax.swing.JTextField txtStok;
     // End of variables declaration//GEN-END:variables
 
-
-    private void showProductCategory(){
+    private void showProductCategory() {
         try {
             Connection K = koneksi_database.getConnection();
             Statement S = K.createStatement();
             String Q = "SELECT ID_Kategori,Nama_Kategori FROM Kategori";
             ResultSet R = S.executeQuery(Q);
             cmbKategori.removeAllItems();
-            while (R.next()) {                 
+            while (R.next()) {
                 int id = R.getInt("ID_Kategori");
                 String name = R.getString("Nama_Kategori");
-                cmbKategori.addItem(id+"-"+name);
-            } 
+                cmbKategori.addItem(id + "-" + name);
+            }
         } catch (Exception e) {
         }
     }
 
-    
-
-
     private void numberOnly(KeyEvent evt) {
         char c = evt.getKeyChar();
-        if(!Character.isDigit(c)){
+        if (!Character.isDigit(c)) {
             evt.consume();
         }
     }
+    
+    public String getKodeProduk() {
+    return txtKode.getText();
+}
+    
 
 }

@@ -52,7 +52,7 @@ public class LoginController {
                 System.out.println("Username di query: " + username); // Debug
 
                 try (ResultSet resultSet = statement.executeQuery()) {
-                    
+
                     if (resultSet.next()) {
                         // 1. Buat objek User dengan nilai default
                         User user = new User();
@@ -87,35 +87,36 @@ public class LoginController {
         }
     }
     // In LoginController class
-public User getProfilById(int id) {
-    try (Connection connection = DriverManager.getConnection(DB_URL, DB_USER, DB_PASSWORD)) {
-        String sql = "SELECT * FROM pengguna WHERE ID_User = ?"; // Use ID_User in the query
-        try (PreparedStatement statement = connection.prepareStatement(sql)) {
-            statement.setInt(1, id); // Set the ID parameter
 
-            try (ResultSet resultSet = statement.executeQuery()) {
-                if (resultSet.next()) {
-                    User user = new User();
-                    user.setIdUser(resultSet.getInt("ID_User"));
-                    user.setNama(resultSet.getString("Nama"));
-                    user.setUsername(resultSet.getString("Username"));
-                    user.setPassword(resultSet.getString("Password"));
-                    user.setLevelAkses(resultSet.getString("Level_Akses"));
-                    return user;
-                } else {
-                    // Handle if user not found
-                    System.err.println("User with ID " + id + " not found in the database!");
-                    return null;
+    public User getProfilById(int id) {
+        try (Connection connection = DriverManager.getConnection(DB_URL, DB_USER, DB_PASSWORD)) {
+            String sql = "SELECT * FROM pengguna WHERE ID_User = ?"; // Use ID_User in the query
+            try (PreparedStatement statement = connection.prepareStatement(sql)) {
+                statement.setInt(1, id); // Set the ID parameter
+
+                try (ResultSet resultSet = statement.executeQuery()) {
+                    if (resultSet.next()) {
+                        User user = new User();
+                        user.setIdUser(resultSet.getInt("ID_User"));
+                        user.setNama(resultSet.getString("Nama"));
+                        user.setUsername(resultSet.getString("Username"));
+                        user.setPassword(resultSet.getString("Password"));
+                        user.setLevelAkses(resultSet.getString("Level_Akses"));
+                        return user;
+                    } else {
+                        // Handle if user not found
+                        System.err.println("User with ID " + id + " not found in the database!");
+                        return null;
+                    }
                 }
+            } catch (SQLException e) {
+                System.err.println("Error database: " + e.getMessage());
+                return null;
             }
         } catch (SQLException e) {
-            System.err.println("Error database: " + e.getMessage());
+            System.err.println("Error koneksi database: " + e.getMessage());
             return null;
         }
-    } catch (SQLException e) {
-        System.err.println("Error koneksi database: " + e.getMessage());
-        return null;
+
     }
-    
-}
 }

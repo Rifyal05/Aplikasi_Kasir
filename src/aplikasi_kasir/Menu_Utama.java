@@ -23,96 +23,94 @@ import javax.swing.JFileChooser;
 import function.LoginController;
 
 public class Menu_Utama extends javax.swing.JFrame {
-    
+
     private User user;
     private static final long serialVersionUID = 1L;
 //    private javax.swing.JLabel labelFoto;
+
     /**
-     * Creates new form 
+     * Creates new form
+     *
      * @param user
      */
     public Menu_Utama(User user) {
-    initComponents();
-    this.user = user; // Inisialisasi atribut user
-    System.out.println(user);
-    this.setExtendedState(JFrame.MAXIMIZED_BOTH);
-    System.out.println("User: " + user);
-    if (user != null) {
-        
-        
-        tampilkanFotoProfil(user.getUsername());
-        String namaUppercase = user.getNama().toUpperCase(); // Ubah nama menjadi uppercase
-        jLabel5.setText("SELAMAT DATANG, " + namaUppercase + "!");
-        String namaUppercase2 = user.getNama().toUpperCase(); // Ubah nama menjadi uppercase
-        jLabel7.setText(namaUppercase);
+        initComponents();
+        this.user = user; // Inisialisasi atribut user
+        System.out.println(user);
+        this.setExtendedState(JFrame.MAXIMIZED_BOTH);
+        System.out.println("User: " + user);
+        if (user != null) {
 
-        int id = user.getIdUser();
-        String nama = user.getNama();
-        String username = user.getUsername();
-        String level = user.getLevelAkses();
-        Label_ID.setText("" + id);
-        Label_Nama.setText("" + nama);
-        Label_Username.setText("" + username);
-        Label_level.setText("" + level);
+            tampilkanFotoProfil(user.getUsername());
+            String namaUppercase = user.getNama().toUpperCase(); // Ubah nama menjadi uppercase
+            jLabel5.setText("SELAMAT DATANG, " + namaUppercase + "!");
+            String namaUppercase2 = user.getNama().toUpperCase(); // Ubah nama menjadi uppercase
+            jLabel7.setText(namaUppercase);
 
+            int id = user.getIdUser();
+            String nama = user.getNama();
+            String username = user.getUsername();
+            String level = user.getLevelAkses();
+            Label_ID.setText("" + id);
+            Label_Nama.setText("" + nama);
+            Label_Username.setText("" + username);
+            Label_level.setText("" + level);
 
-    } else {
-        jLabel5.setText("Error: Data user tidak ditemukan.");
+        } else {
+            jLabel5.setText("Error: Data user tidak ditemukan.");
+        }
     }
-    }
-private void tampilkanFotoProfil(String username) {
-    try (Connection conn = koneksi_database.getConnection();
-         PreparedStatement stmt = conn.prepareStatement("SELECT foto FROM pengguna WHERE Username = ?")) {
 
-        stmt.setString(1, username);
-        System.out.println("Query: SELECT foto FROM pengguna WHERE Username = " + username); // Debug
-        try (ResultSet rs = stmt.executeQuery()) {
-            if (rs.next()) {
-                System.out.println("Data ditemukan di ResultSet"); // Debug
-                byte[] imageData = rs.getBytes("foto");
-                System.out.println("imageData: " + imageData); // Debug
-                if (imageData != null) {
-                    ByteArrayInputStream bais = new ByteArrayInputStream(imageData);
-                    try {
-                        BufferedImage image = ImageIO.read(bais);
-                        if (image != null) {
-                            
-                        int lebar = 151; // Contoh lebar 100 pixel
-                        int tinggi = 151; // Contoh tinggi 100 pixel
+    private void tampilkanFotoProfil(String username) {
+        try (Connection conn = koneksi_database.getConnection(); PreparedStatement stmt = conn.prepareStatement("SELECT foto FROM pengguna WHERE Username = ?")) {
 
-                        // Resize gambar
-                        Image scaledImage = image.getScaledInstance(lebar, tinggi, Image.SCALE_SMOOTH);
+            stmt.setString(1, username);
+            System.out.println("Query: SELECT foto FROM pengguna WHERE Username = " + username); // Debug
+            try (ResultSet rs = stmt.executeQuery()) {
+                if (rs.next()) {
+                    System.out.println("Data ditemukan di ResultSet"); // Debug
+                    byte[] imageData = rs.getBytes("foto");
+                    System.out.println("imageData: " + imageData); // Debug
+                    if (imageData != null) {
+                        ByteArrayInputStream bais = new ByteArrayInputStream(imageData);
+                        try {
+                            BufferedImage image = ImageIO.read(bais);
+                            if (image != null) {
 
-                        ImageIcon imageIcon = new ImageIcon(scaledImage);
-                        LabelFoto.setIcon(imageIcon);
+                                int lebar = 151; // Contoh lebar 100 pixel
+                                int tinggi = 151; // Contoh tinggi 100 pixel
 
-                        } else {
-                            // Handle jika gambar tidak valid
-                            LabelFoto.setText("Gambar tidak valid");
-                            System.err.println("Error: Gambar tidak valid");
+                                // Resize gambar
+                                Image scaledImage = image.getScaledInstance(lebar, tinggi, Image.SCALE_SMOOTH);
+
+                                ImageIcon imageIcon = new ImageIcon(scaledImage);
+                                LabelFoto.setIcon(imageIcon);
+
+                            } else {
+                                // Handle jika gambar tidak valid
+                                LabelFoto.setText("Gambar tidak valid");
+                                System.err.println("Error: Gambar tidak valid");
+                            }
+                        } catch (IOException e) {
+                            LabelFoto.setText("Error membaca gambar");
+                            System.err.println("Error membaca gambar: " + e.getMessage());
                         }
-                    } catch (IOException e) {
-                        LabelFoto.setText("Error membaca gambar");
-                        System.err.println("Error membaca gambar: " + e.getMessage());
+                    } else {
+                        // Handle jika gambar tidak ditemukan di database
+                        LabelFoto.setText("Gambar tidak tersedia");
+                        System.err.println("Error: Gambar tidak tersedia di database");
                     }
                 } else {
-                    // Handle jika gambar tidak ditemukan di database
-                    LabelFoto.setText("Gambar tidak tersedia");
-                    System.err.println("Error: Gambar tidak tersedia di database");
+                    System.out.println("Data tidak ditemukan di ResultSet"); // Debug
+                    LabelFoto.setText("Data user tidak ditemukan");
                 }
-            } else {
-                System.out.println("Data tidak ditemukan di ResultSet"); // Debug
-                LabelFoto.setText("Data user tidak ditemukan");
             }
+        } catch (SQLException e) {
+            System.err.println("Error SQL: " + e.getMessage());
+            JOptionPane.showMessageDialog(this, "Error SQL: " + e.getMessage());
         }
-    } catch (SQLException e) {
-        System.err.println("Error SQL: " + e.getMessage());
-        JOptionPane.showMessageDialog(this, "Error SQL: " + e.getMessage());
     }
-}
 
-    
-   
     /**
      * This method is called from within the constructor to initialize the form.
      * WARNING: Do NOT modify this code. The content of this method is always
@@ -695,16 +693,15 @@ private void tampilkanFotoProfil(String username) {
     }// </editor-fold>//GEN-END:initComponents
 
     private void jButton3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton3ActionPerformed
-    int confirm = JOptionPane.showConfirmDialog(this, "Apakah Anda yakin ingin logout?", "Konfirmasi Logout", JOptionPane.YES_NO_OPTION);
-    if (confirm == JOptionPane.YES_OPTION)
- {
-        // Tutup form saat ini
-        this.dispose(); 
+        int confirm = JOptionPane.showConfirmDialog(this, "Apakah Anda yakin ingin logout?", "Konfirmasi Logout", JOptionPane.YES_NO_OPTION);
+        if (confirm == JOptionPane.YES_OPTION) {
+            // Tutup form saat ini
+            this.dispose();
 
-        // Tampilkan form login 
-        Login_Page loginForm = new Login_Page();
-        loginForm.setVisible(true); 
-    }     // TODO add your handling code here:
+            // Tampilkan form login 
+            Login_Page loginForm = new Login_Page();
+            loginForm.setVisible(true);
+        }     // TODO add your handling code here:
     }//GEN-LAST:event_jButton3ActionPerformed
 
     private void jButton4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton4ActionPerformed
@@ -721,29 +718,29 @@ private void tampilkanFotoProfil(String username) {
         Connection conn = null;
         conn = koneksi_database.getConnection(); // Panggil getConnection()
         try (PreparedStatement checkLamaStmt = conn.prepareStatement(
-            "SELECT COUNT(*) FROM Pengguna WHERE username = ?")) {
-        checkLamaStmt.setString(1, usernameLama);
+                "SELECT COUNT(*) FROM Pengguna WHERE username = ?")) {
+            checkLamaStmt.setString(1, usernameLama);
 
-        try (ResultSet rs = checkLamaStmt.executeQuery()) {
-            if (rs.next() && rs.getInt(1) == 0) {
-                JOptionPane.showMessageDialog(this, "Username lama tidak ditemukan!");
-                return;
+            try (ResultSet rs = checkLamaStmt.executeQuery()) {
+                if (rs.next() && rs.getInt(1) == 0) {
+                    JOptionPane.showMessageDialog(this, "Username lama tidak ditemukan!");
+                    return;
+                }
             }
-        }
         } catch (SQLException ex) {
             JOptionPane.showMessageDialog(this, "Error saat mengecek username lama: " + ex.getMessage());
             return; // Hentikan proses jika terjadi error
         }
         try (PreparedStatement stmt = conn.prepareStatement(
-            "SELECT COUNT(*) FROM Pengguna WHERE username = ?")) {
-        stmt.setString(1, usernameBaru);
+                "SELECT COUNT(*) FROM Pengguna WHERE username = ?")) {
+            stmt.setString(1, usernameBaru);
 
-        try (ResultSet rs = stmt.executeQuery()) {
-            if (rs.next() && rs.getInt(1) > 0) {
-                JOptionPane.showMessageDialog(this, "Username baru sudah terdaftar!");
-                return;
+            try (ResultSet rs = stmt.executeQuery()) {
+                if (rs.next() && rs.getInt(1) > 0) {
+                    JOptionPane.showMessageDialog(this, "Username baru sudah terdaftar!");
+                    return;
+                }
             }
-        }
         } catch (SQLException ex) {
             JOptionPane.showMessageDialog(this, "Error saat mengecek username di database: " + ex.getMessage());
             // ... (opsional) logging error ...
@@ -751,18 +748,18 @@ private void tampilkanFotoProfil(String username) {
 
         // ----> Kode untuk update username <----
         try (PreparedStatement updateStmt = conn.prepareStatement(
-            "UPDATE Pengguna SET username = ? WHERE username = ?")) {
+                "UPDATE Pengguna SET username = ? WHERE username = ?")) {
 
-        updateStmt.setString(1, usernameBaru);
-        updateStmt.setString(2, usernameLama); // Asumsikan usernameLama sudah didapatkan
+            updateStmt.setString(1, usernameBaru);
+            updateStmt.setString(2, usernameLama); // Asumsikan usernameLama sudah didapatkan
 
-        int rowsUpdated = updateStmt.executeUpdate();
-        if (rowsUpdated > 0) {
-            JOptionPane.showMessageDialog(this, "Username berhasil diubah!");
-            // ... (opsional) refresh tampilan atau lakukan tindakan lain ...
-        } else {
-            JOptionPane.showMessageDialog(this, "Gagal mengubah username. Coba lagi nanti.");
-        }
+            int rowsUpdated = updateStmt.executeUpdate();
+            if (rowsUpdated > 0) {
+                JOptionPane.showMessageDialog(this, "Username berhasil diubah!");
+                // ... (opsional) refresh tampilan atau lakukan tindakan lain ...
+            } else {
+                JOptionPane.showMessageDialog(this, "Gagal mengubah username. Coba lagi nanti.");
+            }
         } catch (SQLException ex) {
             JOptionPane.showMessageDialog(this, "Error saat mengupdate username: " + ex.getMessage());
         }
@@ -789,118 +786,115 @@ private void tampilkanFotoProfil(String username) {
     }//GEN-LAST:event_jTextField9ActionPerformed
 
     private void jButton5ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton5ActionPerformed
-            // TODO add your handling code here:
+        // TODO add your handling code here:
     }//GEN-LAST:event_jButton5ActionPerformed
 
     private void jButton6ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton6ActionPerformed
         int confirm = JOptionPane.showConfirmDialog(this, "Apakah Anda yakin ingin logout?", "Konfirmasi Logout", JOptionPane.YES_NO_OPTION);
-        if (confirm == JOptionPane.YES_OPTION){
-                    // Tutup form saat ini
-        this.dispose();
+        if (confirm == JOptionPane.YES_OPTION) {
+            // Tutup form saat ini
+            this.dispose();
 
-        // Tampilkan form login 
-        Login_Page loginForm = new Login_Page();
-        loginForm.setVisible(true);
-        LoginController loginController = new LoginController();
-        String username = Login_Page.loggedInUsername; // Ambil username dari objek Profile
-        function.Log.savelog("\n User logged out: " + username);
-        User user = loginController.getProfil(username);
-        
-        if (user != null) {
-            function.Log.savelog("\n User logged out information: " + user.toString()); // Gunakan toString() dari objek User
-        } else {
-            function.Log.savelog("\n User logged out (Profile not found for " + username + ")");
-        }
-        }
- {
+            // Tampilkan form login 
+            Login_Page loginForm = new Login_Page();
+            loginForm.setVisible(true);
+            LoginController loginController = new LoginController();
+            String username = Login_Page.loggedInUsername; // Ambil username dari objek Profile
+            function.Log.savelog("\n User logged out: " + username);
+            User user = loginController.getProfil(username);
 
-    }     // TODO add your handling code here:
+            if (user != null) {
+                function.Log.savelog("\n User logged out information: " + user.toString()); // Gunakan toString() dari objek User
+            } else {
+                function.Log.savelog("\n User logged out (Profile not found for " + username + ")");
+            }
+        }
+        {
+
+        }     // TODO add your handling code here:
     }//GEN-LAST:event_jButton6ActionPerformed
 
     private void jButton7ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton7ActionPerformed
-         
-         Admin_Page admin = new Admin_Page();
-         admin.setVisible(true);// TODO add your handling code here:
-         this.dispose();
+
+        Admin_Page admin = new Admin_Page();
+        admin.setVisible(true);// TODO add your handling code here:
+        this.dispose();
     }//GEN-LAST:event_jButton7ActionPerformed
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
-    UserController userController = new UserController();
-    
+        UserController userController = new UserController();
 
-    // 2. Buka JFileChooser untuk memilih gambar
-    JFileChooser fileChooser = new JFileChooser();
-    fileChooser.setFileSelectionMode(JFileChooser.FILES_ONLY);
-    int result = fileChooser.showOpenDialog(this);
+        // 2. Buka JFileChooser untuk memilih gambar
+        JFileChooser fileChooser = new JFileChooser();
+        fileChooser.setFileSelectionMode(JFileChooser.FILES_ONLY);
+        int result = fileChooser.showOpenDialog(this);
 
+        if (result == JFileChooser.APPROVE_OPTION) {
+            try {
 
-    if (result == JFileChooser.APPROVE_OPTION)
- {
-        try {
-            
-            // 3. Ambil path file gambar yang dipilih
-            String imagePath = fileChooser.getSelectedFile().getAbsolutePath();
+                // 3. Ambil path file gambar yang dipilih
+                String imagePath = fileChooser.getSelectedFile().getAbsolutePath();
 
-            // 4. Ambil username pengguna yang sedang login 
-            String username = user.getUsername();
+                // 4. Ambil username pengguna yang sedang login 
+                String username = user.getUsername();
 
-            // 5. Panggil method ubahFotoProfil dari UserController
-            String resultUbahFoto = userController.ubahFotoProfil(username, imagePath);
+                // 5. Panggil method ubahFotoProfil dari UserController
+                String resultUbahFoto = userController.ubahFotoProfil(username, imagePath);
 
-            // 6. Tampilkan pesan sukses/error
-            JOptionPane.showMessageDialog(this, resultUbahFoto);
+                // 6. Tampilkan pesan sukses/error
+                JOptionPane.showMessageDialog(this, resultUbahFoto);
 
-            // 7. Update tampilan foto profil di GUI (jika ada)
-            // ...
-
-        } catch (Exception ex) {
-            JOptionPane.showMessageDialog(this, "Error: " + ex.getMessage(), "Error", JOptionPane.ERROR_MESSAGE);
+                // 7. Update tampilan foto profil di GUI (jika ada)
+                // ...
+            } catch (Exception ex) {
+                JOptionPane.showMessageDialog(this, "Error: " + ex.getMessage(), "Error", JOptionPane.ERROR_MESSAGE);
+            }
         }
-    }
 
     }//GEN-LAST:event_jButton1ActionPerformed
 
     /**
      * @param args the command line arguments
      */
-//    public static void main(String args[]) {
-//        /* Set the Nimbus look and feel */
-//        //<editor-fold defaultstate="collapsed" desc=" Look and feel setting code (optional) ">
-//        /* If Nimbus (introduced in Java SE 6) is not available, stay with the default look and feel.
-//         * For details see http://download.oracle.com/javase/tutorial/uiswing/lookandfeel/plaf.html 
-//         */
-//        try {
-//            for (javax.swing.UIManager.LookAndFeelInfo info : javax.swing.UIManager.getInstalledLookAndFeels()) {
-//                if ("Nimbus".equals(info.getName())) {
-//                    javax.swing.UIManager.setLookAndFeel(info.getClassName());
-//                    break;
-//                }
-//            }
-//        } catch (ClassNotFoundException ex) {
-//            java.util.logging.Logger.getLogger(Menu_Utama.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
-//        } catch (InstantiationException ex) {
-//            java.util.logging.Logger.getLogger(Menu_Utama.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
-//        } catch (IllegalAccessException ex) {
-//            java.util.logging.Logger.getLogger(Menu_Utama.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
-//        } catch (javax.swing.UnsupportedLookAndFeelException ex) {
-//            java.util.logging.Logger.getLogger(Menu_Utama.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
-//        }
-//        //</editor-fold>
-//        //</editor-fold>
-//        //</editor-fold>
-//        //</editor-fold>
-//        //</editor-fold>
-//        //</editor-fold>
-//        //</editor-fold>
-//        //</editor-fold>
-//
-//        /* Create and display the form */
-//        java.awt.EventQueue.invokeLater(new Runnable() {
-//            public void run() {
-//                new Menu_Utama().setVisible(true);
-//            }
-//        });
-//    }
+    public static void main(String args[]) {
+        /* Set the Nimbus look and feel */
+        //<editor-fold defaultstate="collapsed" desc=" Look and feel setting code (optional) ">
+        /* If Nimbus (introduced in Java SE 6) is not available, stay with the default look and feel.
+         * For details see http://download.oracle.com/javase/tutorial/uiswing/lookandfeel/plaf.html 
+         */
+        try {
+            for (javax.swing.UIManager.LookAndFeelInfo info : javax.swing.UIManager.getInstalledLookAndFeels()) {
+                if ("Nimbus".equals(info.getName())) {
+                    javax.swing.UIManager.setLookAndFeel(info.getClassName());
+                    break;
+                }
+            }
+        } catch (ClassNotFoundException ex) {
+            java.util.logging.Logger.getLogger(Menu_Utama.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+        } catch (InstantiationException ex) {
+            java.util.logging.Logger.getLogger(Menu_Utama.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+        } catch (IllegalAccessException ex) {
+            java.util.logging.Logger.getLogger(Menu_Utama.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+        } catch (javax.swing.UnsupportedLookAndFeelException ex) {
+            java.util.logging.Logger.getLogger(Menu_Utama.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+        }
+        //</editor-fold>
+        //</editor-fold>
+        //</editor-fold>
+        //</editor-fold>
+        //</editor-fold>
+        //</editor-fold>
+        //</editor-fold>
+        //</editor-fold>
+
+        /* Create and display the form */
+        java.awt.EventQueue.invokeLater(new Runnable() {
+            public void run() {
+                Login_Page loginPage = new Login_Page();
+                loginPage.setVisible(true);
+            }
+        });
+    }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JLabel LabelFoto;

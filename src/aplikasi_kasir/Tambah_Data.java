@@ -4,17 +4,13 @@
  */
 package aplikasi_kasir;
 
-
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import javax.swing.JOptionPane;
 import function.koneksi_database;
+import java.sql.ResultSet;
+import java.sql.SQLException;
 
-
-/**
- *
- * @author LABKOM
- */
 public class Tambah_Data extends javax.swing.JDialog {
 
     /**
@@ -191,39 +187,44 @@ public class Tambah_Data extends javax.swing.JDialog {
 
     private void btnBatalActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnBatalActionPerformed
         // TODO add your handling code here:
-        this.setVisible(false); 
+        this.setVisible(false);
     }//GEN-LAST:event_btnBatalActionPerformed
 
     private void btnSimpanActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnSimpanActionPerformed
+                                        
         String Nama = txtFullname.getText();
         String Username = txtUsername.getText();
         String Password = new String(txtPassword.getPassword());
         String Level_Akses = jComboBox1.getSelectedItem().toString();
-        
-        String Q = "INSERT INTO pengguna"
-                + "(Nama,Username,Password,Level_Akses) "
-                + "VALUES "
-                + "(?,?,?,?)";
-        try {
-            Connection K = koneksi_database.getConnection();
-            PreparedStatement P = K.prepareStatement(Q);
-            P.setString(1, Nama);
-            P.setString(2, Username);
-            P.setString(3, Password);
-            P.setString(4, Level_Akses);
-            P.executeUpdate();
-            
-//            Admin_Page.viewData(""); 
-//            JOptionPane.showMessageDialog(this, "Data berhasil disimpan");
-//            txtFullname.requestFocus();
-            Admin_Page.viewData(""); 
-            JOptionPane.showMessageDialog(this, "Data berhasil disimpan");
-            txtFullname.requestFocus();
-            this.dispose();
-        } catch (Exception e) {
-            //
+
+        try (Connection K = koneksi_database.getConnection(); PreparedStatement P = K.prepareStatement("SELECT * FROM pengguna WHERE Username=?")) {
+            P.setString(1, Username);
+            try (ResultSet R = P.executeQuery()) {
+                if (R.next()) {
+                    JOptionPane.showMessageDialog(this, "Username sudah digunakan. Silakan pilih username lain.", "Error", JOptionPane.ERROR_MESSAGE);
+                } else {
+                    String Q = "INSERT INTO pengguna"
+                            + "(Nama,Username,Password,Level_Akses) "
+                            + "VALUES "
+                            + "(?,?,?,?)";
+
+                    try (PreparedStatement S = K.prepareStatement(Q)) {
+                        S.setString(1, Nama);
+                        S.setString(2, Username);
+                        S.setString(3, Password);
+                        S.setString(4, Level_Akses);
+                        S.executeUpdate();
+
+                        Admin_Page.viewData("");
+                        JOptionPane.showMessageDialog(this, "Data berhasil disimpan");
+                        txtFullname.requestFocus();
+                        this.dispose();
+                    } 
+                }
+            }
+        } catch (SQLException e) {
+            JOptionPane.showMessageDialog(this, "Error: " + e.getMessage());
         }
-        
     }//GEN-LAST:event_btnSimpanActionPerformed
 
     private void txtFullnameActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_txtFullnameActionPerformed

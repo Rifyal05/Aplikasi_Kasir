@@ -4,21 +4,17 @@
  */
 package aplikasi_kasir;
 
-
 import function.koneksi_database;
-import java.awt.Image;
 import java.awt.event.KeyEvent;
-import java.io.File;
 import java.sql.Connection;
 import java.sql.Statement;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
-import javax.swing.JFileChooser;
 import javax.swing.JOptionPane;
 
-
 public class Update_Produk extends javax.swing.JDialog {
+
     private int ID_Produk;
     private String Kode_Produk;
     private String Nama_Produk;
@@ -26,13 +22,14 @@ public class Update_Produk extends javax.swing.JDialog {
     private Double Harga_jual;
     private Double Harga_beli;
     private int Stok;
+
     /**
      * Creates new form TambahProduk
      */
     public Update_Produk(java.awt.Frame parent, boolean modal) {
         super(parent, modal);
         initComponents();
-        
+
         showProductCategory();
 //        showSupplier();
     }
@@ -225,29 +222,29 @@ public class Update_Produk extends javax.swing.JDialog {
     }//GEN-LAST:event_txtHargaJualKeyTyped
 
     private void txtHargaBeliKeyTyped(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_txtHargaBeliKeyTyped
-        numberOnly(evt); 
+        numberOnly(evt);
     }//GEN-LAST:event_txtHargaBeliKeyTyped
 
     private void txtStokKeyTyped(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_txtStokKeyTyped
-        numberOnly(evt); 
+        numberOnly(evt);
     }//GEN-LAST:event_txtStokKeyTyped
 
     private void jButton3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton3ActionPerformed
-        
+
         String Kode_Produk = txtKode.getText();
         String Nama_Produk = txtNama.getText();
         String Kategori = cmbKategori.getSelectedItem().toString();
         int Harga_jual = Integer.parseInt(txtHargaJual.getText().toString());
-        
+
         String Q = "UPDATE produk SET "
-        + "Kode_Produk=?,"
-        + "Nama_Produk=?,"
-        + "Kategori=?,"
-        + "Harga_jual=?,"
-        + "Harga_beli=?,"
-        + "Stok=? "
-        + "WHERE ID_Produk=?";
-        
+                + "Kode_Produk=?,"
+                + "Nama_Produk=?,"
+                + "Kategori=?,"
+                + "Harga_jual=?,"
+                + "Harga_beli=?,"
+                + "Stok=? "
+                + "WHERE ID_Produk=?";
+
         try {
             Connection K = koneksi_database.getConnection();
 
@@ -256,22 +253,22 @@ public class Update_Produk extends javax.swing.JDialog {
             ps.setString(1, txtKode.getText());
             ps.setString(2, txtNama.getText());
             String[] X = cmbKategori.getSelectedItem().toString().split("-");
-            ps.setString(3, X[1]); 
-            ps.setDouble(4,Double.parseDouble(txtHargaJual.getText())); 
-            ps.setDouble(5,Double.parseDouble(txtHargaBeli.getText())); 
-            ps.setInt(6,Integer.parseInt(txtStok.getText())); 
+            ps.setString(3, X[1]);
+            ps.setDouble(4, Double.parseDouble(txtHargaJual.getText()));
+            ps.setDouble(5, Double.parseDouble(txtHargaBeli.getText()));
+            ps.setInt(6, Integer.parseInt(txtStok.getText()));
             ps.setInt(7, getIdProduk());
             ps.executeUpdate();
-            
-            Admin_Page.viewDataProduct(""); 
+
+            Admin_Page.viewDataProduct("");
             JOptionPane.showMessageDialog(this, "Data berhasil disimpan");
             txtNama.requestFocus();
             this.dispose();
-            
+
         } catch (NumberFormatException | SQLException e) {
-    e.printStackTrace(); // Print the full stack trace for detailed error info
-    JOptionPane.showMessageDialog(this, "Error saving data: " + e.getMessage(), "Error", JOptionPane.ERROR_MESSAGE); // User-friendly error message
-}
+            e.printStackTrace(); // Print the full stack trace for detailed error info
+            JOptionPane.showMessageDialog(this, "Error saving data: " + e.getMessage(), "Error", JOptionPane.ERROR_MESSAGE); // User-friendly error message
+        }
     }//GEN-LAST:event_jButton3ActionPerformed
 
     private void txtKodeActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_txtKodeActionPerformed
@@ -380,19 +377,18 @@ public class Update_Produk extends javax.swing.JDialog {
     public String getNamaProduk() {
         return Nama_Produk;
     }
-    
-    public void setNamaProduk(String Nama_Produk){
+
+    public void setNamaProduk(String Nama_Produk) {
         this.Nama_Produk = Nama_Produk;
     }
-    
-    public String getKategori(){
+
+    public String getKategori() {
         return Kategori;
     }
 
     public void setKategori(String Kategori) {
         this.Kategori = Kategori;
     }
-
 
     public Double getHargaBeli() {
         return Harga_beli;
@@ -401,7 +397,7 @@ public class Update_Produk extends javax.swing.JDialog {
     public void setHargaBeli(Double Harga_beli) {
         this.Harga_beli = Harga_beli;
     }
-    
+
     public Double getHargaJual() {
         return Harga_jual;
     }
@@ -409,7 +405,7 @@ public class Update_Produk extends javax.swing.JDialog {
     public void setHargaJual(Double Harga_jual) {
         this.Harga_jual = Harga_jual;
     }
-    
+
     public int getStok() {
         return Stok;
     }
@@ -418,28 +414,25 @@ public class Update_Produk extends javax.swing.JDialog {
         this.Stok = Stok;
     }
 
-
-    private void showProductCategory(){
+    private void showProductCategory() {
         try {
             Connection K = koneksi_database.getConnection();
             Statement S = K.createStatement();
             String Q = "SELECT ID_Kategori,Nama_Kategori FROM Kategori";
             ResultSet R = S.executeQuery(Q);
             cmbKategori.removeAllItems();
-            while (R.next()) {                 
+            while (R.next()) {
                 int id = R.getInt("ID_Kategori");
                 String name = R.getString("Nama_Kategori");
-                cmbKategori.addItem(id+"-"+name);
-            } 
+                cmbKategori.addItem(id + "-" + name);
+            }
         } catch (Exception e) {
         }
     }
-    
-
 
     private void numberOnly(KeyEvent evt) {
         char c = evt.getKeyChar();
-        if(!Character.isDigit(c)){
+        if (!Character.isDigit(c)) {
             evt.consume();
         }
     }

@@ -1,0 +1,358 @@
+[Log Activity : 12/01/2025 03:40:05 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 12/01/2025 03:40:05 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 12/01/2025 03:41:19 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 12/01/2025 03:41:19 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 12/01/2025 03:44:03 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 12/01/2025 03:44:03 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 12/01/2025 04:08:45 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 12/01/2025 04:08:45 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 12/01/2025 11:16:04 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 12/01/2025 11:16:04 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 12/01/2025 11:16:40 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 12/01/2025 11:16:40 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 12/01/2025 11:18:12 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 12/01/2025 11:18:12 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 12/01/2025 11:18:40 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 12/01/2025 11:18:40 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 12/01/2025 11:19:08 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 12/01/2025 11:19:09 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 12/01/2025 11:20:02 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 12/01/2025 11:20:02 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 12/01/2025 11:21:24 WIB] Log Information : 
+ User logged in: SHIROKO.
+[Log Activity : 12/01/2025 11:21:24 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='SHIROKO', Password='1234', levelAkses='owner'}.
+[Log Activity : 12/01/2025 11:22:12 WIB] Log Information : 
+ User logged in: SHIROKO.
+[Log Activity : 12/01/2025 11:22:12 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='SHIROKO', Password='1234', levelAkses='owner'}.
+[Log Activity : 12/01/2025 11:23:22 WIB] Log Information : 
+ User logged in: SHIROKO.
+[Log Activity : 12/01/2025 11:23:22 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='SHIROKO', Password='1234', levelAkses='owner'}.
+[Log Activity : 12/01/2025 11:23:51 WIB] Log Information : 
+ User logged in: SHIROKO.
+[Log Activity : 12/01/2025 11:23:51 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='SHIROKO', Password='1234', levelAkses='owner'}.
+[Log Activity : 12/01/2025 11:24:42 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 12/01/2025 11:24:42 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 12/01/2025 11:27:47 WIB] Log Information : 
+ User logged in: SHIROKO.
+[Log Activity : 12/01/2025 11:27:47 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='SHIROKO', Password='1234', levelAkses='owner'}.
+[Log Activity : 12/01/2025 11:28:51 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 12/01/2025 11:28:51 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 12/01/2025 11:29:46 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 12/01/2025 11:29:46 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 12/01/2025 11:30:29 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 12/01/2025 11:30:29 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 12/01/2025 11:31:11 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 12/01/2025 11:35:47 WIB] Log Information : 
+ Sukses mengambil data produk.
+[Log Activity : 12/01/2025 11:35:47 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 12/01/2025 11:38:38 WIB] Log Information : 
+ User logged in: SHIROKO.
+[Log Activity : 12/01/2025 11:38:38 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='SHIROKO', Password='1234', levelAkses='owner'}.
+[Log Activity : 12/01/2025 11:39:37 WIB] Log Information : 
+ User logged in: SHIROKO.
+[Log Activity : 12/01/2025 11:39:37 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='SHIROKO', Password='1234', levelAkses='owner'}.
+[Log Activity : 12/01/2025 11:40:08 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 12/01/2025 11:40:08 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 12/01/2025 11:49:08 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 12/01/2025 11:49:08 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 12/01/2025 12:15:17 WIB] Log Information : 
+ User logged in: SHIROKO.
+[Log Activity : 12/01/2025 12:15:17 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='SHIROKO', Password='1234', levelAkses='owner'}.
+[Log Activity : 12/01/2025 12:16:59 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 12/01/2025 12:17:00 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 12/01/2025 12:18:32 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 12/01/2025 12:18:32 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 12/01/2025 12:19:05 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 12/01/2025 12:19:05 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 12/01/2025 12:20:08 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 12/01/2025 12:20:08 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 12/01/2025 12:20:55 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 12/01/2025 12:20:55 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 12/01/2025 12:22:12 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 12/01/2025 12:22:12 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 12/01/2025 12:29:03 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 12/01/2025 12:29:03 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 12/01/2025 12:35:17 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 12/01/2025 12:35:17 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 12/01/2025 12:36:17 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 12/01/2025 12:36:17 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 12/01/2025 12:37:09 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 12/01/2025 12:37:09 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 12/01/2025 12:38:17 WIB] Log Information : 
+ User logged in: dive.
+[Log Activity : 12/01/2025 12:38:17 WIB] Log Information : 
+ User logged in information: User{ID_User=69, Nama='Divergent', Username='dive', Password='1234', levelAkses='kasir'}.
+[Log Activity : 12/01/2025 12:39:28 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 12/01/2025 12:39:28 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 12/01/2025 12:40:16 WIB] Log Information : 
+ User logged in: dive.
+[Log Activity : 12/01/2025 12:40:16 WIB] Log Information : 
+ User logged in information: User{ID_User=69, Nama='Divergent', Username='dive', Password='1234', levelAkses='kasir'}.
+[Log Activity : 12/01/2025 12:40:40 WIB] Log Information : 
+ User logged out: dive.
+[Log Activity : 12/01/2025 12:40:40 WIB] Log Information : 
+ User logged out information: User{ID_User=69, Nama='Divergent', Username='dive', Password='1234', levelAkses='kasir'}.
+[Log Activity : 12/01/2025 12:40:46 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 12/01/2025 12:40:46 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 12/01/2025 12:43:01 WIB] Log Information : 
+ User logged in: dive.
+[Log Activity : 12/01/2025 12:43:01 WIB] Log Information : 
+ User logged in information: User{ID_User=69, Nama='Divergent', Username='dive', Password='1234', levelAkses='kasir'}.
+[Log Activity : 12/01/2025 12:47:41 WIB] Log Information : 
+ User logged in: dive.
+[Log Activity : 12/01/2025 12:47:41 WIB] Log Information : 
+ User logged in information: User{ID_User=69, Nama='Divergent', Username='dive', Password='1234', levelAkses='kasir'}.
+[Log Activity : 12/01/2025 12:52:38 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 12/01/2025 12:52:38 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 12/01/2025 13:16:09 WIB] Log Information : 
+ User logged in: RIFYAL12.
+[Log Activity : 12/01/2025 13:16:09 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='RIFYAL12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 12/01/2025 13:16:42 WIB] Log Information : 
+ User logged out: RIFYAL12.
+[Log Activity : 12/01/2025 13:16:42 WIB] Log Information : 
+ User logged out information: User{ID_User=9, Nama='Rifyal', Username='RIFYAL12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 12/01/2025 13:23:12 WIB] Log Information : 
+ User logged in: dive.
+[Log Activity : 12/01/2025 13:23:12 WIB] Log Information : 
+ User logged in information: User{ID_User=69, Nama='Divergent', Username='dive', Password='1234', levelAkses='kasir'}.
+[Log Activity : 12/01/2025 13:29:57 WIB] Log Information : 
+ User logged in: dive.
+[Log Activity : 12/01/2025 13:29:57 WIB] Log Information : 
+ User logged in information: User{ID_User=69, Nama='Divergent', Username='dive', Password='1234', levelAkses='kasir'}.
+[Log Activity : 12/01/2025 13:30:53 WIB] Log Information : 
+ User logged in: dive.
+[Log Activity : 12/01/2025 13:30:53 WIB] Log Information : 
+ User logged in information: User{ID_User=69, Nama='Divergent', Username='dive', Password='1234', levelAkses='kasir'}.
+[Log Activity : 12/01/2025 13:31:45 WIB] Log Information : 
+ User logged in: dive.
+[Log Activity : 12/01/2025 13:31:45 WIB] Log Information : 
+ User logged in information: User{ID_User=69, Nama='Divergent', Username='dive', Password='1234', levelAkses='kasir'}.
+[Log Activity : 12/01/2025 13:35:03 WIB] Log Information : 
+ User logged in: dive.
+[Log Activity : 12/01/2025 13:35:03 WIB] Log Information : 
+ User logged in information: User{ID_User=69, Nama='Divergent', Username='dive', Password='1234', levelAkses='kasir'}.
+[Log Activity : 12/01/2025 13:39:14 WIB] Log Information : 
+ User logged out: dive.
+[Log Activity : 12/01/2025 13:39:14 WIB] Log Information : 
+ User logged out information: User{ID_User=69, Nama='Divergent', Username='dive', Password='1234', levelAkses='kasir'}.
+[Log Activity : 12/01/2025 13:39:23 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 12/01/2025 13:39:23 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 12/01/2025 13:42:56 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 12/01/2025 13:42:56 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 12/01/2025 15:13:36 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 12/01/2025 15:13:36 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 12/01/2025 15:24:58 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 12/01/2025 15:24:58 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 12/01/2025 15:31:47 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 12/01/2025 15:31:47 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 12/01/2025 17:35:33 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 12/01/2025 17:35:33 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 12/01/2025 17:43:58 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 12/01/2025 17:43:58 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 12/01/2025 17:46:29 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 12/01/2025 17:46:29 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 12/01/2025 17:52:46 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 12/01/2025 17:52:46 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1', levelAkses='owner'}.
+[Log Activity : 12/01/2025 17:59:19 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 12/01/2025 17:59:19 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 12/01/2025 18:08:45 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 12/01/2025 18:08:45 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 12/01/2025 18:31:51 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 12/01/2025 18:31:51 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 12/01/2025 18:33:04 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 12/01/2025 18:33:04 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 12/01/2025 19:05:29 WIB] Log Information : 
+ User logged in: shiroko.
+[Log Activity : 12/01/2025 19:05:29 WIB] Log Information : 
+ User logged in information: User{ID_User=67, Nama='Sunaookami Shiroko', Username='shiroko', Password='1234', levelAkses='owner'}.
+[Log Activity : 12/01/2025 19:23:47 WIB] Log Information : 
+ User logged in: rifyal.
+[Log Activity : 12/01/2025 19:23:47 WIB] Log Information : 
+ User logged in information: User{ID_User=6, Nama='Rifyal', Username='rifyal', Password='1234', levelAkses='admin'}.
+[Log Activity : 12/01/2025 19:23:48 WIB] Log Information : 
+ User logged in: rifyal.
+[Log Activity : 12/01/2025 19:23:48 WIB] Log Information : 
+ User logged in information: User{ID_User=6, Nama='Rifyal', Username='rifyal', Password='1234', levelAkses='admin'}.
+[Log Activity : 12/01/2025 19:23:55 WIB] Log Information : 
+ User logged out: rifyal.
+[Log Activity : 12/01/2025 19:23:55 WIB] Log Information : 
+ User logged out information: User{ID_User=6, Nama='Rifyal', Username='rifyal', Password='1234', levelAkses='admin'}.
+[Log Activity : 12/01/2025 19:25:05 WIB] Log Information : 
+ User logged in: rifyal.
+[Log Activity : 12/01/2025 19:25:05 WIB] Log Information : 
+ User logged in information: User{ID_User=6, Nama='Rifyal', Username='rifyal', Password='1234', levelAkses='admin'}.
+[Log Activity : 12/01/2025 19:25:11 WIB] Log Information : 
+ User logged out: rifyal.
+[Log Activity : 12/01/2025 19:25:11 WIB] Log Information : 
+ User logged out information: User{ID_User=6, Nama='Rifyal', Username='rifyal', Password='1234', levelAkses='admin'}.
+[Log Activity : 12/01/2025 19:25:19 WIB] Log Information : 
+ User logged in: rifyal.
+[Log Activity : 12/01/2025 19:25:19 WIB] Log Information : 
+ User logged in information: User{ID_User=6, Nama='Rifyal', Username='rifyal', Password='1234', levelAkses='admin'}.
+[Log Activity : 12/01/2025 19:25:22 WIB] Log Information : 
+ Sukses mengambil data produk.
+[Log Activity : 12/01/2025 19:25:22 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 12/01/2025 19:27:20 WIB] Log Information : 
+ User with ID 66 deleted (Profile not found).
+[Log Activity : 12/01/2025 19:27:27 WIB] Log Information : 
+ User with ID 70 deleted (Profile not found).
+[Log Activity : 12/01/2025 19:36:27 WIB] Log Information : 
+ User logged in: rifyal.
+[Log Activity : 12/01/2025 19:36:27 WIB] Log Information : 
+ User logged in information: User{ID_User=6, Nama='Rifyal', Username='rifyal', Password='1234', levelAkses='admin'}.
+[Log Activity : 12/01/2025 19:36:30 WIB] Log Information : 
+ Sukses mengambil data produk.
+[Log Activity : 12/01/2025 19:36:30 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 12/01/2025 19:37:00 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 12/01/2025 19:37:00 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 12/01/2025 19:45:43 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 12/01/2025 19:45:43 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 12/01/2025 19:48:35 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 12/01/2025 19:48:35 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 12/01/2025 20:11:51 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 12/01/2025 20:11:51 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 12/01/2025 20:11:56 WIB] Log Information : 
+ User logged out: rifyal12.
+[Log Activity : 12/01/2025 20:11:56 WIB] Log Information : 
+ User logged out information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 12/01/2025 20:12:00 WIB] Log Information : 
+ User logged in: rifyal.
+[Log Activity : 12/01/2025 20:12:00 WIB] Log Information : 
+ User logged in information: User{ID_User=6, Nama='Rifyal', Username='rifyal', Password='1234', levelAkses='admin'}.
+[Log Activity : 12/01/2025 20:12:04 WIB] Log Information : 
+ Sukses mengambil data produk.
+[Log Activity : 12/01/2025 20:12:04 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 12/01/2025 20:12:27 WIB] Log Information : 
+ Sukses mengambil data produk.
+[Log Activity : 12/01/2025 20:13:03 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 12/01/2025 20:13:03 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 12/01/2025 20:17:44 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 12/01/2025 20:17:44 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 12/01/2025 20:28:42 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 12/01/2025 20:28:42 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 12/01/2025 20:31:23 WIB] Log Information : 
+ Sukses mengambil data produk.
+[Log Activity : 12/01/2025 20:31:23 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 12/01/2025 20:31:35 WIB] Log Information : 
+ Sukses mengambil data produk.
+[Log Activity : 12/01/2025 20:31:50 WIB] Log Information : 
+ Sukses mengambil data produk.
+[Log Activity : 12/01/2025 20:32:13 WIB] Log Information : 
+ Sukses mengambil data produk.
+[Log Activity : 12/01/2025 20:32:59 WIB] Log Information : 
+ Sukses mengambil data produk.
+[Log Activity : 12/01/2025 20:32:59 WIB] Log Information : 
+ Admin page initialized with user profile.

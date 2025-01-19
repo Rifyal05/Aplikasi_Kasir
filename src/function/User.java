@@ -9,13 +9,14 @@ package function;
  * @author rifial
  */
 public class User {
+
     public User() {
         // Inisialisasi atribut dengan nilai default jika diperlukan
-        this.ID_User = 0; 
+        this.ID_User = 0;
         this.Nama = "";
         this.Username = "";
         this.Password = "";
-        this.Level_Akses = ""; 
+        this.Level_Akses = "";
     }
     private int ID_User;
     private String Nama;
@@ -31,21 +32,23 @@ public class User {
         this.Password = Password;
         this.Level_Akses = level_akses;
     }
-     @Override
+
+    @Override
     public String toString() {
-        return "User{" +
-                "ID_User=" + ID_User +
-                ", Nama='" + Nama + '\'' +
-                ", Username='" + Username + '\'' +
-                ", Password='" + Password + '\'' +
-                ", levelAkses='" + Level_Akses + '\'' +
-                '}';
+        return "User{"
+                + "ID_User=" + ID_User
+                + ", Nama='" + Nama + '\''
+                + ", Username='" + Username + '\''
+                + ", Password='" + Password + '\''
+                + ", levelAkses='" + Level_Akses + '\''
+                + '}';
     }
+
     // Getter
     public int getIdUser() {
         return ID_User;
     }
-    
+
     public byte[] getFoto() {
         return foto;
     }
@@ -62,16 +65,15 @@ public class User {
         return Password;
     }
 
-    public String getLevelAkses()
- {
+    public String getLevelAkses() {
         return Level_Akses;
     }
 
     // Setter
-    
     public void setIdUser(int ID_User) {
         this.ID_User = ID_User;
     }
+
     public void setFoto(byte[] foto) {
         this.foto = foto;
     }
@@ -91,5 +93,5 @@ public class User {
     public void setLevelAkses(String Level_Akses) {
         this.Level_Akses = Level_Akses;
     }
- 
+
 }

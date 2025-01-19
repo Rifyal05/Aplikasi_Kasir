@@ -1,0 +1,30 @@
+[Log Activity : 16/01/2025 16:42:33 WIB] Log Information : 
+ User logged in: rifyal.
+[Log Activity : 16/01/2025 16:42:33 WIB] Log Information : 
+ User logged in information: User{ID_User=6, Nama='Rifyal', Username='rifyal', Password='1234', levelAkses='admin'}.
+[Log Activity : 16/01/2025 16:43:04 WIB] Log Information : 
+ Sukses mengambil data produk.
+[Log Activity : 16/01/2025 16:43:04 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 16/01/2025 16:45:09 WIB] Log Information : 
+ Admin page initialized with user profile.
+[Log Activity : 16/01/2025 16:45:09 WIB] Log Information : Navigated to laporan keuangan.
+[Log Activity : 16/01/2025 16:45:31 WIB] Log Information : Navigated to main menu.
+[Log Activity : 16/01/2025 16:45:38 WIB] Log Information : 
+ User logged out: rifyal.
+[Log Activity : 16/01/2025 16:45:38 WIB] Log Information : 
+ User logged out information: User{ID_User=6, Nama='Rifyal', Username='rifyal', Password='1234', levelAkses='admin'}.
+[Log Activity : 16/01/2025 16:45:51 WIB] Log Information : 
+ User logged in: rifyal12.
+[Log Activity : 16/01/2025 16:45:51 WIB] Log Information : 
+ User logged in information: User{ID_User=9, Nama='Rifyal', Username='rifyal12', Password='1234', levelAkses='kasir'}.
+[Log Activity : 16/01/2025 17:02:09 WIB] Log Information : 
+ User logged in: rifyal.
+[Log Activity : 16/01/2025 17:02:09 WIB] Log Information : 
+ User logged in information: User{ID_User=6, Nama='Rifyal', Username='rifyal', Password='1234', levelAkses='admin'}.
+[Log Activity : 16/01/2025 17:05:05 WIB] Log Information : 
+ User logged in: rifyal.
+[Log Activity : 16/01/2025 17:05:05 WIB] Log Information : 
+ User logged in information: User{ID_User=6, Nama='Rifyal', Username='rifyal', Password='1234', levelAkses='admin'}.
+[Log Activity : 16/01/2025 17:07:25 WIB] Log Information : 
+ Admin page initialized with user profile.

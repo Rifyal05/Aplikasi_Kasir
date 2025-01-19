@@ -12,10 +12,9 @@ public class Log {
 
     static String folder = "Log_Activity";
     static String pathFolder = "src" + File.separator + "log" + File.separator + folder;
-    static String logName = "log_aplikasi_kasir.txt";
-    static String pathLog = pathFolder + File.separator + logName;
+    static String logName; 
+    static String pathLog;
 
-    // Method untuk mendapatkan format tanggal dan waktu
     public static String getDateNow() {
         Date d = new Date();
         SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy HH:mm:ss z");
@@ -25,14 +24,13 @@ public class Log {
     // Method untuk menyimpan log
     public static void savelog(String activity) {
         try {
-            File f = new File(pathFolder);
-            f.mkdirs();
+            buatFileLog();
 
             File log = new File(pathLog);
             log.createNewFile();
             String formattedDate = getDateNow();
             System.out.println("Formatted date: " + formattedDate);
-            String logEntry = "[" + "Log Activity : " + formattedDate + "] "  + "Log Information : " + activity + ".\n";
+            String logEntry = "[" + "Log Activity : " + formattedDate + "] " + "Log Information : " + activity + ".\n";
 
             Files.write(
                     Paths.get(pathLog),
@@ -42,6 +40,23 @@ public class Log {
         } catch (IOException e) {
             System.err.println("Error Code: 101 => " + e.getMessage());
             e.printStackTrace();
+        }
+    }
+
+    // Method untuk membuat file log baru jika sudah beda hari
+    private static void buatFileLog() throws IOException {
+        Date currentDate = new Date();
+        SimpleDateFormat dateFormat = new SimpleDateFormat("yyyyMMdd");
+        String currentDateString = dateFormat.format(currentDate);
+        logName = "log_aplikasi_kasir_" + currentDateString + ".txt";
+        pathLog = pathFolder + File.separator + logName;
+
+        File f = new File(pathFolder);
+        f.mkdirs(); 
+
+        File log = new File(pathLog);
+        if (!log.exists()) {
+            log.createNewFile(); // Buat file baru jika belum ada
         }
     }
 

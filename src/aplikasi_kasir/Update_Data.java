@@ -1,6 +1,5 @@
 package aplikasi_kasir;
 
-
 import function.koneksi_database;
 import java.awt.HeadlessException;
 import java.sql.Connection;
@@ -8,15 +7,13 @@ import java.sql.PreparedStatement;
 import java.sql.SQLException;
 import javax.swing.JOptionPane;
 
-
 public class Update_Data extends javax.swing.JDialog {
-    
+
     private int ID_User;
     private String Nama;
     private String Username;
     private String Password;
     private String Level_Akses;
-    
 
     public Update_Data(java.awt.Frame parent, boolean modal) {
         super(parent, modal);
@@ -175,7 +172,7 @@ public class Update_Data extends javax.swing.JDialog {
 
     private void btnBatalActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnBatalActionPerformed
         // TODO add your handling code here:
-        this.setVisible(false); 
+        this.setVisible(false);
     }//GEN-LAST:event_btnBatalActionPerformed
 
     private void btnSimpanActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnSimpanActionPerformed
@@ -183,7 +180,7 @@ public class Update_Data extends javax.swing.JDialog {
         String Username = txtUsername.getText();
         String Password = new String(txtPassword.getPassword());
         String Level_Akses = jComboBox1.getSelectedItem().toString();
-        
+
         String Q = "UPDATE pengguna "
                 + "set Nama=?,"
                 + "Username=?,"
@@ -199,26 +196,26 @@ public class Update_Data extends javax.swing.JDialog {
             P.setString(4, Level_Akses);
             P.setInt(5, getIdUser());
             P.executeUpdate();
-            
+
 //            Admin_Page.viewData(""); 
 //            JOptionPane.showMessageDialog(this, "Data berhasil disimpan");
 //            txtFullname.requestFocus();
-            Admin_Page.viewData(""); 
+            Admin_Page.viewData("");
             JOptionPane.showMessageDialog(this, "Data berhasil disimpan");
             txtFullname.requestFocus();
             this.dispose();
         } catch (HeadlessException | SQLException e) {
             //
-        }        
+        }
     }//GEN-LAST:event_btnSimpanActionPerformed
 
     private void formWindowOpened(java.awt.event.WindowEvent evt) {//GEN-FIRST:event_formWindowOpened
-        txtFullname.setText(getFullname()); 
-        txtUsername.setText(getUsername()); 
-        txtPassword.setText(getPassword()); 
-        
+        txtFullname.setText(getFullname());
+        txtUsername.setText(getUsername());
+        txtPassword.setText(getPassword());
+
         String L = getLevel().substring(0, 1).toUpperCase() + getLevel().substring(1);
-        jComboBox1.setSelectedItem(L); 
+        jComboBox1.setSelectedItem(L);
     }//GEN-LAST:event_formWindowOpened
 
     /**
